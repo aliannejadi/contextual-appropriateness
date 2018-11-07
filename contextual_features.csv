@@ -1,0 +1,2025 @@
+,Trusted Judgements,Appropriateness Score,Category,Context
+0,6,1.0,Food,Trip type: Business
+1,5,1.0,Food,Trip type: Holiday
+2,6,0.6648,Food,Trip type: Other
+3,7,0.7098,Food,Trip duration: Night out
+4,13,1.0,Food,Trip duration: Day trip
+5,5,1.0,Food,Trip duration: Weekend trip
+6,7,0.1428,Food,Trip duration: Longer
+7,13,0.8432,Food,Group type: Alone
+8,13,1.0,Food,Group type: Friends
+9,7,1.0,Food,Group type: Family
+10,7,0.7142,Food,Group type: Other
+11,7,0.4286,American Restaurant,Trip type: Business
+12,6,1.0,American Restaurant,Trip type: Holiday
+13,8,0.5194,American Restaurant,Trip type: Other
+14,7,1.0,American Restaurant,Trip duration: Night out
+15,13,1.0,American Restaurant,Trip duration: Day trip
+16,12,1.0,American Restaurant,Trip duration: Weekend trip
+17,7,0.7142,American Restaurant,Trip duration: Longer
+18,13,0.5428,American Restaurant,Group type: Alone
+19,6,1.0,American Restaurant,Group type: Friends
+20,6,1.0,American Restaurant,Group type: Family
+21,7,0.7142,American Restaurant,Group type: Other
+22,6,-0.661,Arts & Entertainment,Trip type: Business
+23,12,1.0,Arts & Entertainment,Trip type: Holiday
+24,8,0.5194,Arts & Entertainment,Trip type: Other
+25,7,0.1516,Arts & Entertainment,Trip duration: Night out
+26,6,1.0,Arts & Entertainment,Trip duration: Day trip
+27,6,1.0,Arts & Entertainment,Trip duration: Weekend trip
+28,7,0.7112,Arts & Entertainment,Trip duration: Longer
+29,8,1.0,Arts & Entertainment,Group type: Alone
+30,7,1.0,Arts & Entertainment,Group type: Friends
+31,6,1.0,Arts & Entertainment,Group type: Family
+32,7,0.4196,Arts & Entertainment,Group type: Other
+33,12,-0.4886,Nightlife Spot,Trip type: Business
+34,7,1.0,Nightlife Spot,Trip type: Holiday
+35,13,0.5428,Nightlife Spot,Trip type: Other
+36,8,1.0,Nightlife Spot,Trip duration: Night out
+37,6,-0.3218,Nightlife Spot,Trip duration: Day trip
+38,6,1.0,Nightlife Spot,Trip duration: Weekend trip
+39,5,0.2,Nightlife Spot,Trip duration: Longer
+40,12,0.659,Nightlife Spot,Group type: Alone
+41,6,1.0,Nightlife Spot,Group type: Friends
+42,7,-1.0,Nightlife Spot,Group type: Family
+43,7,0.1516,Nightlife Spot,Group type: Other
+44,7,-0.4444,Outdoors & Recreation,Trip type: Business
+45,6,1.0,Outdoors & Recreation,Trip type: Holiday
+46,5,1.0,Outdoors & Recreation,Trip type: Other
+47,6,1.0,Outdoors & Recreation,Trip duration: Night out
+48,7,1.0,Outdoors & Recreation,Trip duration: Day trip
+49,7,0.7136,Outdoors & Recreation,Trip duration: Weekend trip
+50,7,0.7112,Outdoors & Recreation,Trip duration: Longer
+51,5,1.0,Outdoors & Recreation,Group type: Alone
+52,10,1.0,Outdoors & Recreation,Group type: Friends
+53,8,1.0,Outdoors & Recreation,Group type: Family
+54,13,0.8432,Outdoors & Recreation,Group type: Other
+55,7,0.1292,Bar,Trip type: Business
+56,7,0.7142,Bar,Trip type: Holiday
+57,7,0.4272,Bar,Trip type: Other
+58,6,1.0,Bar,Trip duration: Night out
+59,8,0.5194,Bar,Trip duration: Day trip
+60,5,1.0,Bar,Trip duration: Weekend trip
+61,7,0.4222,Bar,Trip duration: Longer
+62,6,0.6648,Bar,Group type: Alone
+63,5,1.0,Bar,Group type: Friends
+64,8,0.7468,Bar,Group type: Family
+65,12,0.3354,Bar,Group type: Other
+66,7,0.1386,Shop & Service,Trip type: Business
+67,7,0.7136,Shop & Service,Trip type: Holiday
+68,7,0.141,Shop & Service,Trip type: Other
+69,5,-0.2,Shop & Service,Trip duration: Night out
+70,6,1.0,Shop & Service,Trip duration: Day trip
+71,7,0.1428,Shop & Service,Trip duration: Weekend trip
+72,7,0.4272,Shop & Service,Trip duration: Longer
+73,7,0.7094,Shop & Service,Group type: Alone
+74,6,0.6648,Shop & Service,Group type: Friends
+75,8,0.7468,Shop & Service,Group type: Family
+76,12,0.5026,Shop & Service,Group type: Other
+77,6,-0.661,Museum,Trip type: Business
+78,7,0.7142,Museum,Trip type: Holiday
+79,7,0.4272,Museum,Trip type: Other
+80,6,-1.0,Museum,Trip duration: Night out
+81,6,1.0,Museum,Trip duration: Day trip
+82,13,0.6864,Museum,Trip duration: Weekend trip
+83,5,0.2,Museum,Trip duration: Longer
+84,7,1.0,Museum,Group type: Alone
+85,7,0.4272,Museum,Group type: Friends
+86,6,1.0,Museum,Group type: Family
+87,7,0.7112,Museum,Group type: Other
+88,6,0.3298,Mexican Restaurant,Trip type: Business
+89,6,1.0,Mexican Restaurant,Trip type: Holiday
+90,7,0.4196,Mexican Restaurant,Trip type: Other
+91,7,0.7112,Mexican Restaurant,Trip duration: Night out
+92,6,1.0,Mexican Restaurant,Trip duration: Day trip
+93,12,1.0,Mexican Restaurant,Trip duration: Weekend trip
+94,12,0.1476,Mexican Restaurant,Trip duration: Longer
+95,6,0.6648,Mexican Restaurant,Group type: Alone
+96,11,1.0,Mexican Restaurant,Group type: Friends
+97,6,1.0,Mexican Restaurant,Group type: Family
+98,7,0.4272,Mexican Restaurant,Group type: Other
+99,12,-0.8438,Park,Trip type: Business
+100,5,0.5988,Park,Trip type: Holiday
+101,5,1.0,Park,Trip type: Other
+102,5,0.2248,Park,Trip duration: Night out
+103,5,1.0,Park,Trip duration: Day trip
+104,5,1.0,Park,Trip duration: Weekend trip
+105,5,0.192,Park,Trip duration: Longer
+106,5,1.0,Park,Group type: Alone
+107,5,1.0,Park,Group type: Friends
+108,5,1.0,Park,Group type: Family
+109,5,1.0,Park,Group type: Other
+110,5,0.5942,Asian Restaurant,Trip type: Business
+111,5,1.0,Asian Restaurant,Trip type: Holiday
+112,5,1.0,Asian Restaurant,Trip type: Other
+113,5,1.0,Asian Restaurant,Trip duration: Night out
+114,5,1.0,Asian Restaurant,Trip duration: Day trip
+115,5,1.0,Asian Restaurant,Trip duration: Weekend trip
+116,5,0.5956,Asian Restaurant,Trip duration: Longer
+117,5,1.0,Asian Restaurant,Group type: Alone
+118,5,1.0,Asian Restaurant,Group type: Friends
+119,5,1.0,Asian Restaurant,Group type: Family
+120,5,1.0,Asian Restaurant,Group type: Other
+121,6,-0.6648,Pizza Place,Trip type: Business
+122,5,0.1946,Pizza Place,Trip type: Holiday
+123,5,1.0,Pizza Place,Trip type: Other
+124,5,1.0,Pizza Place,Trip duration: Night out
+125,5,0.6,Pizza Place,Trip duration: Day trip
+126,5,1.0,Pizza Place,Trip duration: Weekend trip
+127,5,0.6,Pizza Place,Trip duration: Longer
+128,5,1.0,Pizza Place,Group type: Alone
+129,5,1.0,Pizza Place,Group type: Friends
+130,5,1.0,Pizza Place,Group type: Family
+131,5,1.0,Pizza Place,Group type: Other
+132,5,0.1866,Seafood Restaurant,Trip type: Business
+133,5,0.596,Seafood Restaurant,Trip type: Holiday
+134,5,1.0,Seafood Restaurant,Trip type: Other
+135,5,1.0,Seafood Restaurant,Trip duration: Night out
+136,5,0.5914,Seafood Restaurant,Trip duration: Day trip
+137,5,0.5946,Seafood Restaurant,Trip duration: Weekend trip
+138,6,1.0,Seafood Restaurant,Trip duration: Longer
+139,5,1.0,Seafood Restaurant,Group type: Alone
+140,5,1.0,Seafood Restaurant,Group type: Friends
+141,5,1.0,Seafood Restaurant,Group type: Family
+142,5,1.0,Seafood Restaurant,Group type: Other
+143,5,0.1946,Italian Restaurant,Trip type: Business
+144,5,1.0,Italian Restaurant,Trip type: Holiday
+145,5,1.0,Italian Restaurant,Trip type: Other
+146,5,1.0,Italian Restaurant,Trip duration: Night out
+147,5,0.596,Italian Restaurant,Trip duration: Day trip
+148,5,1.0,Italian Restaurant,Trip duration: Weekend trip
+149,5,1.0,Italian Restaurant,Trip duration: Longer
+150,5,1.0,Italian Restaurant,Group type: Alone
+151,5,1.0,Italian Restaurant,Group type: Friends
+152,5,1.0,Italian Restaurant,Group type: Family
+153,6,0.6834,Italian Restaurant,Group type: Other
+154,5,0.1866,Steakhouse,Trip type: Business
+155,5,1.0,Steakhouse,Trip type: Holiday
+156,5,1.0,Steakhouse,Trip type: Other
+157,5,1.0,Steakhouse,Trip duration: Night out
+158,5,1.0,Steakhouse,Trip duration: Day trip
+159,5,1.0,Steakhouse,Trip duration: Weekend trip
+160,5,1.0,Steakhouse,Trip duration: Longer
+161,5,1.0,Steakhouse,Group type: Alone
+162,5,0.596,Steakhouse,Group type: Friends
+163,5,1.0,Steakhouse,Group type: Family
+164,5,1.0,Steakhouse,Group type: Other
+165,5,1.0,Professional & Other Places,Trip type: Business
+166,5,-0.192,Professional & Other Places,Trip type: Holiday
+167,5,1.0,Professional & Other Places,Trip type: Other
+168,5,-0.6136,Professional & Other Places,Trip duration: Night out
+169,5,-0.5988,Professional & Other Places,Trip duration: Day trip
+170,5,0.192,Professional & Other Places,Trip duration: Weekend trip
+171,5,0.601,Professional & Other Places,Trip duration: Longer
+172,5,1.0,Professional & Other Places,Group type: Alone
+173,5,-0.2,Professional & Other Places,Group type: Friends
+174,5,-0.2096,Professional & Other Places,Group type: Family
+175,5,1.0,Professional & Other Places,Group type: Other
+176,5,-1.0,Fast Food Restaurant,Trip type: Business
+177,5,1.0,Fast Food Restaurant,Trip type: Holiday
+178,5,1.0,Fast Food Restaurant,Trip type: Other
+179,5,0.6108,Fast Food Restaurant,Trip duration: Night out
+180,5,0.5932,Fast Food Restaurant,Trip duration: Day trip
+181,5,0.192,Fast Food Restaurant,Trip duration: Weekend trip
+182,5,0.1946,Fast Food Restaurant,Trip duration: Longer
+183,5,1.0,Fast Food Restaurant,Group type: Alone
+184,5,1.0,Fast Food Restaurant,Group type: Friends
+185,5,1.0,Fast Food Restaurant,Group type: Family
+186,5,1.0,Fast Food Restaurant,Group type: Other
+187,5,-1.0,Burger Joint,Trip type: Business
+188,5,1.0,Burger Joint,Trip type: Holiday
+189,5,1.0,Burger Joint,Trip type: Other
+190,5,1.0,Burger Joint,Trip duration: Night out
+191,5,1.0,Burger Joint,Trip duration: Day trip
+192,5,1.0,Burger Joint,Trip duration: Weekend trip
+193,5,0.5882,Burger Joint,Trip duration: Longer
+194,5,1.0,Burger Joint,Group type: Alone
+195,5,1.0,Burger Joint,Group type: Friends
+196,5,1.0,Burger Joint,Group type: Family
+197,5,0.5942,Burger Joint,Group type: Other
+198,5,0.596,Travel & Transport,Trip type: Business
+199,5,1.0,Travel & Transport,Trip type: Holiday
+200,5,1.0,Travel & Transport,Trip type: Other
+201,5,0.191,Travel & Transport,Trip duration: Night out
+202,5,0.5928,Travel & Transport,Trip duration: Day trip
+203,5,0.6,Travel & Transport,Trip duration: Weekend trip
+204,6,1.0,Travel & Transport,Trip duration: Longer
+205,5,1.0,Travel & Transport,Group type: Alone
+206,5,1.0,Travel & Transport,Group type: Friends
+207,5,1.0,Travel & Transport,Group type: Family
+208,5,1.0,Travel & Transport,Group type: Other
+209,5,-0.6118,Sandwich Place,Trip type: Business
+210,5,0.596,Sandwich Place,Trip type: Holiday
+211,5,1.0,Sandwich Place,Trip type: Other
+212,5,1.0,Sandwich Place,Trip duration: Night out
+213,5,1.0,Sandwich Place,Trip duration: Day trip
+214,5,0.192,Sandwich Place,Trip duration: Weekend trip
+215,5,0.1974,Sandwich Place,Trip duration: Longer
+216,5,0.6056,Sandwich Place,Group type: Alone
+217,5,1.0,Sandwich Place,Group type: Friends
+218,5,1.0,Sandwich Place,Group type: Family
+219,5,1.0,Sandwich Place,Group type: Other
+220,6,-0.008,Food & Drink Shop,Trip type: Business
+221,5,1.0,Food & Drink Shop,Trip type: Holiday
+222,5,1.0,Food & Drink Shop,Trip type: Other
+223,5,1.0,Food & Drink Shop,Trip duration: Night out
+224,5,0.596,Food & Drink Shop,Trip duration: Day trip
+225,5,1.0,Food & Drink Shop,Trip duration: Weekend trip
+226,5,0.191,Food & Drink Shop,Trip duration: Longer
+227,5,1.0,Food & Drink Shop,Group type: Alone
+228,5,1.0,Food & Drink Shop,Group type: Friends
+229,5,1.0,Food & Drink Shop,Group type: Family
+230,5,1.0,Food & Drink Shop,Group type: Other
+231,5,0.59,Restaurant,Trip type: Business
+232,5,0.596,Restaurant,Trip type: Holiday
+233,5,1.0,Restaurant,Trip type: Other
+234,5,1.0,Restaurant,Trip duration: Night out
+235,5,0.5974,Restaurant,Trip duration: Day trip
+236,5,0.6,Restaurant,Trip duration: Weekend trip
+237,5,1.0,Restaurant,Trip duration: Longer
+238,6,0.676,Restaurant,Group type: Alone
+239,5,1.0,Restaurant,Group type: Friends
+240,5,1.0,Restaurant,Group type: Family
+241,5,1.0,Restaurant,Group type: Other
+242,5,0.192,Café,Trip type: Business
+243,5,1.0,Café,Trip type: Holiday
+244,5,1.0,Café,Trip type: Other
+245,5,0.2056,Café,Trip duration: Night out
+246,5,1.0,Café,Trip duration: Day trip
+247,5,-0.2,Café,Trip duration: Weekend trip
+248,5,0.192,Café,Trip duration: Longer
+249,5,1.0,Café,Group type: Alone
+250,5,1.0,Café,Group type: Friends
+251,5,1.0,Café,Group type: Family
+252,5,1.0,Café,Group type: Other
+253,5,0.1894,Breakfast Spot,Trip type: Business
+254,5,0.5988,Breakfast Spot,Trip type: Holiday
+255,5,1.0,Breakfast Spot,Trip type: Other
+256,5,-0.2,Breakfast Spot,Trip duration: Night out
+257,5,0.1946,Breakfast Spot,Trip duration: Day trip
+258,5,0.596,Breakfast Spot,Trip duration: Weekend trip
+259,5,0.192,Breakfast Spot,Trip duration: Longer
+260,5,1.0,Breakfast Spot,Group type: Alone
+261,5,1.0,Breakfast Spot,Group type: Friends
+262,5,1.0,Breakfast Spot,Group type: Family
+263,5,1.0,Breakfast Spot,Group type: Other
+264,5,-0.5988,Music Venue,Trip type: Business
+265,5,1.0,Music Venue,Trip type: Holiday
+266,5,1.0,Music Venue,Trip type: Other
+267,5,1.0,Music Venue,Trip duration: Night out
+268,5,0.6022,Music Venue,Trip duration: Day trip
+269,5,0.5946,Music Venue,Trip duration: Weekend trip
+270,5,0.192,Music Venue,Trip duration: Longer
+271,5,1.0,Music Venue,Group type: Alone
+272,5,1.0,Music Venue,Group type: Friends
+273,5,0.6108,Music Venue,Group type: Family
+274,5,1.0,Music Venue,Group type: Other
+275,5,-0.2,Bakery,Trip type: Business
+276,5,0.59,Bakery,Trip type: Holiday
+277,5,1.0,Bakery,Trip type: Other
+278,5,-0.2234,Bakery,Trip duration: Night out
+279,5,0.5932,Bakery,Trip duration: Day trip
+280,5,-0.6,Bakery,Trip duration: Weekend trip
+281,5,0.1828,Bakery,Trip duration: Longer
+282,6,0.676,Bakery,Group type: Alone
+283,5,1.0,Bakery,Group type: Friends
+284,5,1.0,Bakery,Group type: Family
+285,5,1.0,Bakery,Group type: Other
+286,5,1.0,Coffee Shop,Trip type: Business
+287,5,1.0,Coffee Shop,Trip type: Holiday
+288,5,0.5946,Coffee Shop,Trip type: Other
+289,6,0.6594,Coffee Shop,Trip duration: Night out
+290,5,0.5956,Coffee Shop,Trip duration: Day trip
+291,5,0.596,Coffee Shop,Trip duration: Weekend trip
+292,5,1.0,Coffee Shop,Trip duration: Longer
+293,5,1.0,Coffee Shop,Group type: Alone
+294,5,1.0,Coffee Shop,Group type: Friends
+295,5,1.0,Coffee Shop,Group type: Family
+296,5,1.0,Coffee Shop,Group type: Other
+297,5,0.5914,Hotel,Trip type: Business
+298,5,1.0,Hotel,Trip type: Holiday
+299,5,1.0,Hotel,Trip type: Other
+300,5,1.0,Hotel,Trip duration: Night out
+301,5,1.0,Hotel,Trip duration: Day trip
+302,5,1.0,Hotel,Trip duration: Weekend trip
+303,5,1.0,Hotel,Trip duration: Longer
+304,5,1.0,Hotel,Group type: Alone
+305,5,1.0,Hotel,Group type: Friends
+306,5,1.0,Hotel,Group type: Family
+307,5,0.597,Hotel,Group type: Other
+308,5,-1.0,Performing Arts Venue,Trip type: Business
+309,5,1.0,Performing Arts Venue,Trip type: Holiday
+310,5,1.0,Performing Arts Venue,Trip type: Other
+311,5,0.6,Performing Arts Venue,Trip duration: Night out
+312,5,1.0,Performing Arts Venue,Trip duration: Day trip
+313,5,0.5974,Performing Arts Venue,Trip duration: Weekend trip
+314,5,0.2152,Performing Arts Venue,Trip duration: Longer
+315,5,0.6094,Performing Arts Venue,Group type: Alone
+316,5,1.0,Performing Arts Venue,Group type: Friends
+317,5,0.6,Performing Arts Venue,Group type: Family
+318,5,0.6202,Performing Arts Venue,Group type: Other
+319,5,-0.208,Art Gallery,Trip type: Business
+320,5,1.0,Art Gallery,Trip type: Holiday
+321,5,1.0,Art Gallery,Trip type: Other
+322,5,0.5954,Art Gallery,Trip duration: Night out
+323,5,0.595,Art Gallery,Trip duration: Day trip
+324,5,0.6,Art Gallery,Trip duration: Weekend trip
+325,5,0.192,Art Gallery,Trip duration: Longer
+326,5,1.0,Art Gallery,Group type: Alone
+327,5,1.0,Art Gallery,Group type: Friends
+328,5,1.0,Art Gallery,Group type: Family
+329,5,1.0,Art Gallery,Group type: Other
+330,5,0.6,States & Municipalities,Trip type: Business
+331,5,0.5954,States & Municipalities,Trip type: Holiday
+332,5,0.605,States & Municipalities,Trip type: Other
+333,5,-0.636,States & Municipalities,Trip duration: Night out
+334,5,-0.1974,States & Municipalities,Trip duration: Day trip
+335,5,-0.2,States & Municipalities,Trip duration: Weekend trip
+336,5,0.5876,States & Municipalities,Trip duration: Longer
+337,5,0.595,States & Municipalities,Group type: Alone
+338,5,-0.2,States & Municipalities,Group type: Friends
+339,5,-0.2,States & Municipalities,Group type: Family
+340,5,0.6,States & Municipalities,Group type: Other
+341,5,0.2152,College & University,Trip type: Business
+342,5,-1.0,College & University,Trip type: Holiday
+343,5,0.596,College & University,Trip type: Other
+344,5,-0.6,College & University,Trip duration: Night out
+345,5,-0.6202,College & University,Trip duration: Day trip
+346,5,-1.0,College & University,Trip duration: Weekend trip
+347,5,-0.2,College & University,Trip duration: Longer
+348,5,0.5974,College & University,Group type: Alone
+349,5,0.595,College & University,Group type: Friends
+350,5,-0.6,College & University,Group type: Family
+351,5,1.0,College & University,Group type: Other
+352,5,-0.1898,Athletics & Sports,Trip type: Business
+353,5,0.5946,Athletics & Sports,Trip type: Holiday
+354,5,0.5956,Athletics & Sports,Trip type: Other
+355,5,0.2,Athletics & Sports,Trip duration: Night out
+356,5,0.1974,Athletics & Sports,Trip duration: Day trip
+357,5,0.1898,Athletics & Sports,Trip duration: Weekend trip
+358,5,0.2072,Athletics & Sports,Trip duration: Longer
+359,5,1.0,Athletics & Sports,Group type: Alone
+360,5,1.0,Athletics & Sports,Group type: Friends
+361,5,0.6044,Athletics & Sports,Group type: Family
+362,5,1.0,Athletics & Sports,Group type: Other
+363,5,0.192,Brewery,Trip type: Business
+364,5,0.5988,Brewery,Trip type: Holiday
+365,5,0.6202,Brewery,Trip type: Other
+366,5,-0.1946,Brewery,Trip duration: Night out
+367,5,0.5988,Brewery,Trip duration: Day trip
+368,5,0.6,Brewery,Trip duration: Weekend trip
+369,5,0.6,Brewery,Trip duration: Longer
+370,5,1.0,Brewery,Group type: Alone
+371,5,0.6,Brewery,Group type: Friends
+372,5,0.6,Brewery,Group type: Family
+373,5,0.5956,Brewery,Group type: Other
+374,5,-0.5956,Dessert Shop,Trip type: Business
+375,5,1.0,Dessert Shop,Trip type: Holiday
+376,5,1.0,Dessert Shop,Trip type: Other
+377,5,-0.2,Dessert Shop,Trip duration: Night out
+378,5,0.6,Dessert Shop,Trip duration: Day trip
+379,5,0.5988,Dessert Shop,Trip duration: Weekend trip
+380,5,0.6,Dessert Shop,Trip duration: Longer
+381,5,1.0,Dessert Shop,Group type: Alone
+382,5,1.0,Dessert Shop,Group type: Friends
+383,5,1.0,Dessert Shop,Group type: Family
+384,5,0.6202,Dessert Shop,Group type: Other
+385,5,0.2098,Diner,Trip type: Business
+386,5,1.0,Diner,Trip type: Holiday
+387,5,0.6202,Diner,Trip type: Other
+388,5,0.5946,Diner,Trip duration: Night out
+389,5,0.2,Diner,Trip duration: Day trip
+390,5,0.6386,Diner,Trip duration: Weekend trip
+391,5,0.2152,Diner,Trip duration: Longer
+392,5,1.0,Diner,Group type: Alone
+393,5,1.0,Diner,Group type: Friends
+394,5,1.0,Diner,Group type: Family
+395,5,1.0,Diner,Group type: Other
+396,5,-0.6,BBQ Joint,Trip type: Business
+397,5,1.0,BBQ Joint,Trip type: Holiday
+398,5,1.0,BBQ Joint,Trip type: Other
+399,5,-0.179,BBQ Joint,Trip duration: Night out
+400,5,0.1578,BBQ Joint,Trip duration: Day trip
+401,6,1.0,BBQ Joint,Trip duration: Weekend trip
+402,5,1.0,BBQ Joint,Trip duration: Longer
+403,5,1.0,BBQ Joint,Group type: Alone
+404,5,1.0,BBQ Joint,Group type: Friends
+405,5,1.0,BBQ Joint,Group type: Family
+406,5,0.5986,BBQ Joint,Group type: Other
+407,5,-0.2134,Clothing Store,Trip type: Business
+408,5,1.0,Clothing Store,Trip type: Holiday
+409,5,0.5986,Clothing Store,Trip type: Other
+410,5,-0.597,Clothing Store,Trip duration: Night out
+411,5,0.2054,Clothing Store,Trip duration: Day trip
+412,5,0.2054,Clothing Store,Trip duration: Weekend trip
+413,5,0.5986,Clothing Store,Trip duration: Longer
+414,5,1.0,Clothing Store,Group type: Alone
+415,5,1.0,Clothing Store,Group type: Friends
+416,5,1.0,Clothing Store,Group type: Family
+417,5,0.6202,Clothing Store,Group type: Other
+418,5,-1.0,Playground,Trip type: Business
+419,5,1.0,Playground,Trip type: Holiday
+420,5,0.5986,Playground,Trip type: Other
+421,5,-0.2,Playground,Trip duration: Night out
+422,5,1.0,Playground,Trip duration: Day trip
+423,5,0.6112,Playground,Trip duration: Weekend trip
+424,5,0.197,Playground,Trip duration: Longer
+425,5,1.0,Playground,Group type: Alone
+426,5,1.0,Playground,Group type: Friends
+427,5,1.0,Playground,Group type: Family
+428,5,0.2024,Playground,Group type: Other
+429,5,-0.5956,General Entertainment,Trip type: Business
+430,5,1.0,General Entertainment,Trip type: Holiday
+431,5,0.2054,General Entertainment,Trip type: Other
+432,5,0.1956,General Entertainment,Trip duration: Night out
+433,5,0.6068,General Entertainment,Trip duration: Day trip
+434,5,0.606,General Entertainment,Trip duration: Weekend trip
+435,5,0.6368,General Entertainment,Trip duration: Longer
+436,6,1.0,General Entertainment,Group type: Alone
+437,5,1.0,General Entertainment,Group type: Friends
+438,5,1.0,General Entertainment,Group type: Family
+439,5,0.6332,General Entertainment,Group type: Other
+440,5,-0.6,Movie Theater,Trip type: Business
+441,5,0.6332,Movie Theater,Trip type: Holiday
+442,5,1.0,Movie Theater,Trip type: Other
+443,5,0.5986,Movie Theater,Trip duration: Night out
+444,5,0.209,Movie Theater,Trip duration: Day trip
+445,6,0.3452,Movie Theater,Trip duration: Weekend trip
+446,5,0.5986,Movie Theater,Trip duration: Longer
+447,5,1.0,Movie Theater,Group type: Alone
+448,5,1.0,Movie Theater,Group type: Friends
+449,5,1.0,Movie Theater,Group type: Family
+450,5,0.206,Movie Theater,Group type: Other
+451,5,-0.209,Concert Hall,Trip type: Business
+452,5,0.6068,Concert Hall,Trip type: Holiday
+453,5,1.0,Concert Hall,Trip type: Other
+454,5,1.0,Concert Hall,Trip duration: Night out
+455,5,0.6,Concert Hall,Trip duration: Day trip
+456,5,0.2128,Concert Hall,Trip duration: Weekend trip
+457,5,0.1898,Concert Hall,Trip duration: Longer
+458,5,0.6,Concert Hall,Group type: Alone
+459,5,1.0,Concert Hall,Group type: Friends
+460,5,1.0,Concert Hall,Group type: Family
+461,5,1.0,Concert Hall,Group type: Other
+462,5,-0.6,Wings Joint,Trip type: Business
+463,5,0.2098,Wings Joint,Trip type: Holiday
+464,5,1.0,Wings Joint,Trip type: Other
+465,5,1.0,Wings Joint,Trip duration: Night out
+466,5,0.5986,Wings Joint,Trip duration: Day trip
+467,5,0.6068,Wings Joint,Trip duration: Weekend trip
+468,5,0.594,Wings Joint,Trip duration: Longer
+469,5,0.5986,Wings Joint,Group type: Alone
+470,6,1.0,Wings Joint,Group type: Friends
+471,5,0.597,Wings Joint,Group type: Family
+472,5,0.1764,Wings Joint,Group type: Other
+473,5,1.0,Lounge,Trip type: Business
+474,5,0.5986,Lounge,Trip type: Holiday
+475,5,0.197,Lounge,Trip type: Other
+476,5,1.0,Lounge,Trip duration: Night out
+477,5,0.6,Lounge,Trip duration: Day trip
+478,5,1.0,Lounge,Trip duration: Weekend trip
+479,5,1.0,Lounge,Trip duration: Longer
+480,5,1.0,Lounge,Group type: Alone
+481,5,1.0,Lounge,Group type: Friends
+482,5,1.0,Lounge,Group type: Family
+483,5,0.197,Lounge,Group type: Other
+484,5,-0.1914,Deli / Bodega,Trip type: Business
+485,5,0.6112,Deli / Bodega,Trip type: Holiday
+486,5,0.5986,Deli / Bodega,Trip type: Other
+487,5,0.225,Deli / Bodega,Trip duration: Night out
+488,5,0.5986,Deli / Bodega,Trip duration: Day trip
+489,5,1.0,Deli / Bodega,Trip duration: Weekend trip
+490,5,0.2054,Deli / Bodega,Trip duration: Longer
+491,5,1.0,Deli / Bodega,Group type: Alone
+492,5,0.595,Deli / Bodega,Group type: Friends
+493,5,0.5986,Deli / Bodega,Group type: Family
+494,5,1.0,Deli / Bodega,Group type: Other
+495,5,0.191,Southern / Soul Food Restaurant,Trip type: Business
+496,5,1.0,Southern / Soul Food Restaurant,Trip type: Holiday
+497,5,0.6016,Southern / Soul Food Restaurant,Trip type: Other
+498,5,1.0,Southern / Soul Food Restaurant,Trip duration: Night out
+499,5,1.0,Southern / Soul Food Restaurant,Trip duration: Day trip
+500,5,1.0,Southern / Soul Food Restaurant,Trip duration: Weekend trip
+501,5,1.0,Southern / Soul Food Restaurant,Trip duration: Longer
+502,5,1.0,Southern / Soul Food Restaurant,Group type: Alone
+503,5,1.0,Southern / Soul Food Restaurant,Group type: Friends
+504,5,1.0,Southern / Soul Food Restaurant,Group type: Family
+505,5,1.0,Southern / Soul Food Restaurant,Group type: Other
+506,5,0.5956,Scenic Lookout,Trip type: Business
+507,5,0.2054,Scenic Lookout,Trip type: Holiday
+508,5,0.5986,Scenic Lookout,Trip type: Other
+509,5,0.2006,Scenic Lookout,Trip duration: Night out
+510,5,0.5898,Scenic Lookout,Trip duration: Day trip
+511,5,1.0,Scenic Lookout,Trip duration: Weekend trip
+512,5,0.194,Scenic Lookout,Trip duration: Longer
+513,5,0.5986,Scenic Lookout,Group type: Alone
+514,5,1.0,Scenic Lookout,Group type: Friends
+515,5,1.0,Scenic Lookout,Group type: Family
+516,6,0.3594,Scenic Lookout,Group type: Other
+517,5,-0.2,Cajun / Creole Restaurant,Trip type: Business
+518,5,1.0,Cajun / Creole Restaurant,Trip type: Holiday
+519,5,1.0,Cajun / Creole Restaurant,Trip type: Other
+520,5,0.6,Cajun / Creole Restaurant,Trip duration: Night out
+521,5,1.0,Cajun / Creole Restaurant,Trip duration: Day trip
+522,5,0.6112,Cajun / Creole Restaurant,Trip duration: Weekend trip
+523,5,0.2054,Cajun / Creole Restaurant,Trip duration: Longer
+524,5,0.6368,Cajun / Creole Restaurant,Group type: Alone
+525,5,1.0,Cajun / Creole Restaurant,Group type: Friends
+526,5,1.0,Cajun / Creole Restaurant,Group type: Family
+527,5,0.5942,Cajun / Creole Restaurant,Group type: Other
+528,5,-0.6,Other Great Outdoors,Trip type: Business
+529,5,1.0,Other Great Outdoors,Trip type: Holiday
+530,5,1.0,Other Great Outdoors,Trip type: Other
+531,5,1.0,Other Great Outdoors,Trip duration: Night out
+532,5,1.0,Other Great Outdoors,Trip duration: Day trip
+533,5,1.0,Other Great Outdoors,Trip duration: Weekend trip
+534,5,0.6,Other Great Outdoors,Trip duration: Longer
+535,5,1.0,Other Great Outdoors,Group type: Alone
+536,6,1.0,Other Great Outdoors,Group type: Friends
+537,5,1.0,Other Great Outdoors,Group type: Family
+538,5,0.5986,Other Great Outdoors,Group type: Other
+539,5,-0.5986,Stadium,Trip type: Business
+540,5,0.6112,Stadium,Trip type: Holiday
+541,5,0.6106,Stadium,Trip type: Other
+542,6,0.0108,Stadium,Trip duration: Night out
+543,5,0.2054,Stadium,Trip duration: Day trip
+544,5,0.606,Stadium,Trip duration: Weekend trip
+545,5,0.2,Stadium,Trip duration: Longer
+546,6,0.6636,Stadium,Group type: Alone
+547,5,1.0,Stadium,Group type: Friends
+548,5,1.0,Stadium,Group type: Family
+549,6,0.6648,Stadium,Group type: Other
+550,5,-0.1988,Beach,Trip type: Business
+551,5,1.0,Beach,Trip type: Holiday
+552,5,0.597,Beach,Trip type: Other
+553,5,-0.1944,Beach,Trip duration: Night out
+554,5,1.0,Beach,Trip duration: Day trip
+555,5,0.5972,Beach,Trip duration: Weekend trip
+556,5,1.0,Beach,Trip duration: Longer
+557,5,1.0,Beach,Group type: Alone
+558,5,1.0,Beach,Group type: Friends
+559,5,1.0,Beach,Group type: Family
+560,5,1.0,Beach,Group type: Other
+561,5,-0.206,Historic Site,Trip type: Business
+562,6,1.0,Historic Site,Trip type: Holiday
+563,5,1.0,Historic Site,Trip type: Other
+564,5,-0.5986,Historic Site,Trip duration: Night out
+565,5,1.0,Historic Site,Trip duration: Day trip
+566,5,1.0,Historic Site,Trip duration: Weekend trip
+567,5,0.2054,Historic Site,Trip duration: Longer
+568,5,1.0,Historic Site,Group type: Alone
+569,5,1.0,Historic Site,Group type: Friends
+570,5,1.0,Historic Site,Group type: Family
+571,5,0.609,Historic Site,Group type: Other
+572,5,1.0,Government Building,Trip type: Business
+573,5,-0.6,Government Building,Trip type: Holiday
+574,5,-0.197,Government Building,Trip type: Other
+575,5,-0.5986,Government Building,Trip duration: Night out
+576,5,0.197,Government Building,Trip duration: Day trip
+577,5,-0.5984,Government Building,Trip duration: Weekend trip
+578,5,-0.2,Government Building,Trip duration: Longer
+579,5,1.0,Government Building,Group type: Alone
+580,6,0.3336,Government Building,Group type: Friends
+581,5,-0.5986,Government Building,Group type: Family
+582,5,0.2106,Government Building,Group type: Other
+583,5,0.197,Gastropub,Trip type: Business
+584,5,0.6096,Gastropub,Trip type: Holiday
+585,5,1.0,Gastropub,Trip type: Other
+586,5,0.5986,Gastropub,Trip duration: Night out
+587,5,0.5986,Gastropub,Trip duration: Day trip
+588,5,1.0,Gastropub,Trip duration: Weekend trip
+589,5,1.0,Gastropub,Trip duration: Longer
+590,5,1.0,Gastropub,Group type: Alone
+591,5,1.0,Gastropub,Group type: Friends
+592,5,0.203,Gastropub,Group type: Family
+593,5,0.1868,Gastropub,Group type: Other
+594,5,-0.6,Trail,Trip type: Business
+595,5,1.0,Trail,Trip type: Holiday
+596,5,0.6,Trail,Trip type: Other
+597,5,0.1848,Trail,Trip duration: Night out
+598,5,1.0,Trail,Trip duration: Day trip
+599,5,1.0,Trail,Trip duration: Weekend trip
+600,5,0.6016,Trail,Trip duration: Longer
+601,5,0.606,Trail,Group type: Alone
+602,5,1.0,Trail,Group type: Friends
+603,5,0.2144,Trail,Group type: Family
+604,5,0.597,Trail,Group type: Other
+605,5,0.5986,Mediterranean Restaurant,Trip type: Business
+606,5,0.2054,Mediterranean Restaurant,Trip type: Holiday
+607,5,0.206,Mediterranean Restaurant,Trip type: Other
+608,5,0.6,Mediterranean Restaurant,Trip duration: Night out
+609,5,0.197,Mediterranean Restaurant,Trip duration: Day trip
+610,5,0.597,Mediterranean Restaurant,Trip duration: Weekend trip
+611,5,1.0,Mediterranean Restaurant,Trip duration: Longer
+612,5,1.0,Mediterranean Restaurant,Group type: Alone
+613,5,1.0,Mediterranean Restaurant,Group type: Friends
+614,5,1.0,Mediterranean Restaurant,Group type: Family
+615,5,0.6,Mediterranean Restaurant,Group type: Other
+616,5,0.2,Greek Restaurant,Trip type: Business
+617,5,1.0,Greek Restaurant,Trip type: Holiday
+618,5,0.5958,Greek Restaurant,Trip type: Other
+619,5,1.0,Greek Restaurant,Trip duration: Night out
+620,5,0.595,Greek Restaurant,Trip duration: Day trip
+621,5,0.5986,Greek Restaurant,Trip duration: Weekend trip
+622,5,0.5986,Greek Restaurant,Trip duration: Longer
+623,5,1.0,Greek Restaurant,Group type: Alone
+624,5,1.0,Greek Restaurant,Group type: Friends
+625,5,1.0,Greek Restaurant,Group type: Family
+626,5,0.6,Greek Restaurant,Group type: Other
+627,5,-0.2,Shopping Mall,Trip type: Business
+628,5,0.6332,Shopping Mall,Trip type: Holiday
+629,5,0.194,Shopping Mall,Trip type: Other
+630,5,0.197,Shopping Mall,Trip duration: Night out
+631,5,0.597,Shopping Mall,Trip duration: Day trip
+632,5,1.0,Shopping Mall,Trip duration: Weekend trip
+633,5,0.1834,Shopping Mall,Trip duration: Longer
+634,5,1.0,Shopping Mall,Group type: Alone
+635,5,1.0,Shopping Mall,Group type: Friends
+636,5,1.0,Shopping Mall,Group type: Family
+637,5,1.0,Shopping Mall,Group type: Other
+638,5,-1.0,Food Truck,Trip type: Business
+639,5,0.257,Food Truck,Trip type: Holiday
+640,5,1.0,Food Truck,Trip type: Other
+641,6,0.009,Food Truck,Trip duration: Night out
+642,5,0.2044,Food Truck,Trip duration: Day trip
+643,5,0.194,Food Truck,Trip duration: Weekend trip
+644,5,0.2084,Food Truck,Trip duration: Longer
+645,5,0.5972,Food Truck,Group type: Alone
+646,5,0.6046,Food Truck,Group type: Friends
+647,6,0.3224,Food Truck,Group type: Family
+648,5,0.603,Food Truck,Group type: Other
+649,5,0.6002,Spanish Restaurant,Trip type: Business
+650,5,0.5996,Spanish Restaurant,Trip type: Holiday
+651,5,0.5934,Spanish Restaurant,Trip type: Other
+652,5,1.0,Spanish Restaurant,Trip duration: Night out
+653,5,1.0,Spanish Restaurant,Trip duration: Day trip
+654,5,1.0,Spanish Restaurant,Trip duration: Weekend trip
+655,5,1.0,Spanish Restaurant,Trip duration: Longer
+656,5,0.5986,Spanish Restaurant,Group type: Alone
+657,5,1.0,Spanish Restaurant,Group type: Friends
+658,5,1.0,Spanish Restaurant,Group type: Family
+659,5,0.2084,Spanish Restaurant,Group type: Other
+660,5,1.0,Office,Trip type: Business
+661,5,-1.0,Office,Trip type: Holiday
+662,5,0.6,Office,Trip type: Other
+663,5,-1.0,Office,Trip duration: Night out
+664,5,-0.6188,Office,Trip duration: Day trip
+665,5,-0.5984,Office,Trip duration: Weekend trip
+666,5,-0.6,Office,Trip duration: Longer
+667,5,1.0,Office,Group type: Alone
+668,6,0.0,Office,Group type: Friends
+669,5,-0.5916,Office,Group type: Family
+670,5,0.1852,Office,Group type: Other
+671,5,1.0,French Restaurant,Trip type: Business
+672,5,1.0,French Restaurant,Trip type: Holiday
+673,5,0.595,French Restaurant,Trip type: Other
+674,5,1.0,French Restaurant,Trip duration: Night out
+675,5,0.597,French Restaurant,Trip duration: Day trip
+676,5,1.0,French Restaurant,Trip duration: Weekend trip
+677,5,0.5926,French Restaurant,Trip duration: Longer
+678,6,1.0,French Restaurant,Group type: Alone
+679,6,1.0,French Restaurant,Group type: Friends
+680,5,0.6188,French Restaurant,Group type: Family
+681,5,0.5972,French Restaurant,Group type: Other
+682,5,0.1944,Event Space,Trip type: Business
+683,5,0.594,Event Space,Trip type: Holiday
+684,5,1.0,Event Space,Trip type: Other
+685,5,0.6018,Event Space,Trip duration: Night out
+686,5,0.6032,Event Space,Trip duration: Day trip
+687,5,1.0,Event Space,Trip duration: Weekend trip
+688,6,0.3684,Event Space,Trip duration: Longer
+689,5,0.2,Event Space,Group type: Alone
+690,5,0.2084,Event Space,Group type: Friends
+691,5,0.5986,Event Space,Group type: Family
+692,5,0.597,Event Space,Group type: Other
+693,5,-0.2044,Fried Chicken Joint,Trip type: Business
+694,5,0.5986,Fried Chicken Joint,Trip type: Holiday
+695,5,0.5986,Fried Chicken Joint,Trip type: Other
+696,5,0.2,Fried Chicken Joint,Trip duration: Night out
+697,5,1.0,Fried Chicken Joint,Trip duration: Day trip
+698,5,0.6,Fried Chicken Joint,Trip duration: Weekend trip
+699,5,0.5956,Fried Chicken Joint,Trip duration: Longer
+700,5,1.0,Fried Chicken Joint,Group type: Alone
+701,5,1.0,Fried Chicken Joint,Group type: Friends
+702,5,1.0,Fried Chicken Joint,Group type: Family
+703,5,0.6,Fried Chicken Joint,Group type: Other
+704,5,-0.6104,Dog Run,Trip type: Business
+705,5,1.0,Dog Run,Trip type: Holiday
+706,5,0.597,Dog Run,Trip type: Other
+707,5,-0.1794,Dog Run,Trip duration: Night out
+708,5,1.0,Dog Run,Trip duration: Day trip
+709,5,0.6016,Dog Run,Trip duration: Weekend trip
+710,5,0.6096,Dog Run,Trip duration: Longer
+711,5,1.0,Dog Run,Group type: Alone
+712,5,1.0,Dog Run,Group type: Friends
+713,5,0.597,Dog Run,Group type: Family
+714,5,0.5972,Dog Run,Group type: Other
+715,5,0.5986,Plaza,Trip type: Business
+716,5,1.0,Plaza,Trip type: Holiday
+717,5,0.5972,Plaza,Trip type: Other
+718,5,0.1898,Plaza,Trip duration: Night out
+719,5,0.6096,Plaza,Trip duration: Day trip
+720,5,1.0,Plaza,Trip duration: Weekend trip
+721,5,1.0,Plaza,Trip duration: Longer
+722,5,1.0,Plaza,Group type: Alone
+723,5,1.0,Plaza,Group type: Friends
+724,5,0.5986,Plaza,Group type: Family
+725,5,1.0,Plaza,Group type: Other
+726,5,-0.6008,Miscellaneous Shop,Trip type: Business
+727,5,0.21,Miscellaneous Shop,Trip type: Holiday
+728,5,0.597,Miscellaneous Shop,Trip type: Other
+729,5,-0.197,Miscellaneous Shop,Trip duration: Night out
+730,5,0.2088,Miscellaneous Shop,Trip duration: Day trip
+731,5,0.2084,Miscellaneous Shop,Trip duration: Weekend trip
+732,5,0.197,Miscellaneous Shop,Trip duration: Longer
+733,5,0.587,Miscellaneous Shop,Group type: Alone
+734,5,0.2044,Miscellaneous Shop,Group type: Friends
+735,5,1.0,Miscellaneous Shop,Group type: Family
+736,5,0.2044,Miscellaneous Shop,Group type: Other
+737,5,-1.0,Nightclub,Trip type: Business
+738,5,0.6,Nightclub,Trip type: Holiday
+739,5,1.0,Nightclub,Trip type: Other
+740,5,1.0,Nightclub,Trip duration: Night out
+741,5,-0.2134,Nightclub,Trip duration: Day trip
+742,5,0.6112,Nightclub,Trip duration: Weekend trip
+743,5,0.2,Nightclub,Trip duration: Longer
+744,5,1.0,Nightclub,Group type: Alone
+745,5,1.0,Nightclub,Group type: Friends
+746,5,0.197,Nightclub,Group type: Family
+747,5,0.595,Nightclub,Group type: Other
+748,5,-1.0,Garden,Trip type: Business
+749,6,1.0,Garden,Trip type: Holiday
+750,5,0.6078,Garden,Trip type: Other
+751,5,-0.2,Garden,Trip duration: Night out
+752,5,0.5986,Garden,Trip duration: Day trip
+753,5,0.6368,Garden,Trip duration: Weekend trip
+754,5,0.205,Garden,Trip duration: Longer
+755,5,1.0,Garden,Group type: Alone
+756,5,1.0,Garden,Group type: Friends
+757,5,1.0,Garden,Group type: Family
+758,5,1.0,Garden,Group type: Other
+759,5,0.5986,Vegetarian / Vegan Restaurant,Trip type: Business
+760,5,1.0,Vegetarian / Vegan Restaurant,Trip type: Holiday
+761,5,0.5986,Vegetarian / Vegan Restaurant,Trip type: Other
+762,5,0.5996,Vegetarian / Vegan Restaurant,Trip duration: Night out
+763,6,0.6644,Vegetarian / Vegan Restaurant,Trip duration: Day trip
+764,5,0.609,Vegetarian / Vegan Restaurant,Trip duration: Weekend trip
+765,5,0.5956,Vegetarian / Vegan Restaurant,Trip duration: Longer
+766,5,1.0,Vegetarian / Vegan Restaurant,Group type: Alone
+767,5,1.0,Vegetarian / Vegan Restaurant,Group type: Friends
+768,5,1.0,Vegetarian / Vegan Restaurant,Group type: Family
+769,5,0.5986,Vegetarian / Vegan Restaurant,Group type: Other
+770,5,-0.1958,Department Store,Trip type: Business
+771,5,0.6068,Department Store,Trip type: Holiday
+772,5,0.6078,Department Store,Trip type: Other
+773,6,-1.0,Department Store,Trip duration: Night out
+774,6,0.341,Department Store,Trip duration: Day trip
+775,5,-0.5898,Department Store,Trip duration: Weekend trip
+776,5,-0.1914,Department Store,Trip duration: Longer
+777,5,0.6068,Department Store,Group type: Alone
+778,5,0.2,Department Store,Group type: Friends
+779,5,1.0,Department Store,Group type: Family
+780,5,0.6,Department Store,Group type: Other
+781,5,0.6002,Latin American Restaurant,Trip type: Business
+782,5,1.0,Latin American Restaurant,Trip type: Holiday
+783,5,1.0,Latin American Restaurant,Trip type: Other
+784,5,1.0,Latin American Restaurant,Trip duration: Night out
+785,5,1.0,Latin American Restaurant,Trip duration: Day trip
+786,5,1.0,Latin American Restaurant,Trip duration: Weekend trip
+787,5,0.606,Latin American Restaurant,Trip duration: Longer
+788,5,1.0,Latin American Restaurant,Group type: Alone
+789,5,1.0,Latin American Restaurant,Group type: Friends
+790,5,1.0,Latin American Restaurant,Group type: Family
+791,5,1.0,Latin American Restaurant,Group type: Other
+792,5,-1.0,Zoo,Trip type: Business
+793,5,0.257,Zoo,Trip type: Holiday
+794,5,1.0,Zoo,Trip type: Other
+795,5,-1.0,Zoo,Trip duration: Night out
+796,5,1.0,Zoo,Trip duration: Day trip
+797,5,0.6096,Zoo,Trip duration: Weekend trip
+798,5,1.0,Zoo,Trip duration: Longer
+799,5,1.0,Zoo,Group type: Alone
+800,5,1.0,Zoo,Group type: Friends
+801,5,1.0,Zoo,Group type: Family
+802,5,0.597,Zoo,Group type: Other
+803,5,-0.1944,Salon / Barbershop,Trip type: Business
+804,5,-0.199,Salon / Barbershop,Trip type: Holiday
+805,5,0.609,Salon / Barbershop,Trip type: Other
+806,5,-1.0,Salon / Barbershop,Trip duration: Night out
+807,5,-0.2044,Salon / Barbershop,Trip duration: Day trip
+808,5,-0.197,Salon / Barbershop,Trip duration: Weekend trip
+809,5,0.2,Salon / Barbershop,Trip duration: Longer
+810,5,1.0,Salon / Barbershop,Group type: Alone
+811,5,-0.2,Salon / Barbershop,Group type: Friends
+812,6,0.353,Salon / Barbershop,Group type: Family
+813,5,0.5986,Salon / Barbershop,Group type: Other
+814,5,-1.0,Lake,Trip type: Business
+815,5,1.0,Lake,Trip type: Holiday
+816,5,0.5986,Lake,Trip type: Other
+817,5,-0.6028,Lake,Trip duration: Night out
+818,5,1.0,Lake,Trip duration: Day trip
+819,6,1.0,Lake,Trip duration: Weekend trip
+820,5,1.0,Lake,Trip duration: Longer
+821,5,1.0,Lake,Group type: Alone
+822,5,1.0,Lake,Group type: Friends
+823,6,1.0,Lake,Group type: Family
+824,5,0.5958,Lake,Group type: Other
+825,5,-0.2408,Medical Center,Trip type: Business
+826,5,-0.2044,Medical Center,Trip type: Holiday
+827,6,0.0174,Medical Center,Trip type: Other
+828,5,-1.0,Medical Center,Trip duration: Night out
+829,5,-0.1954,Medical Center,Trip duration: Day trip
+830,5,-1.0,Medical Center,Trip duration: Weekend trip
+831,5,0.1956,Medical Center,Trip duration: Longer
+832,5,0.5986,Medical Center,Group type: Alone
+833,5,0.1956,Medical Center,Group type: Friends
+834,5,0.225,Medical Center,Group type: Family
+835,5,0.2044,Medical Center,Group type: Other
+836,5,0.5986,Indian Restaurant,Trip type: Business
+837,5,1.0,Indian Restaurant,Trip type: Holiday
+838,5,0.5958,Indian Restaurant,Trip type: Other
+839,5,1.0,Indian Restaurant,Trip duration: Night out
+840,5,1.0,Indian Restaurant,Trip duration: Day trip
+841,5,1.0,Indian Restaurant,Trip duration: Weekend trip
+842,5,0.6,Indian Restaurant,Trip duration: Longer
+843,5,1.0,Indian Restaurant,Group type: Alone
+844,5,1.0,Indian Restaurant,Group type: Friends
+845,5,1.0,Indian Restaurant,Group type: Family
+846,5,0.6202,Indian Restaurant,Group type: Other
+847,5,-0.5986,Gift Shop,Trip type: Business
+848,5,1.0,Gift Shop,Trip type: Holiday
+849,5,0.5986,Gift Shop,Trip type: Other
+850,5,-0.2,Gift Shop,Trip duration: Night out
+851,5,1.0,Gift Shop,Trip duration: Day trip
+852,5,0.184,Gift Shop,Trip duration: Weekend trip
+853,5,0.5956,Gift Shop,Trip duration: Longer
+854,5,1.0,Gift Shop,Group type: Alone
+855,5,1.0,Gift Shop,Group type: Friends
+856,5,1.0,Gift Shop,Group type: Family
+857,5,0.1764,Gift Shop,Group type: Other
+858,5,-0.5986,Other Nightlife,Trip type: Business
+859,5,0.6112,Other Nightlife,Trip type: Holiday
+860,5,0.5972,Other Nightlife,Trip type: Other
+861,5,1.0,Other Nightlife,Trip duration: Night out
+862,5,-0.2,Other Nightlife,Trip duration: Day trip
+863,5,0.2128,Other Nightlife,Trip duration: Weekend trip
+864,5,0.6,Other Nightlife,Trip duration: Longer
+865,5,1.0,Other Nightlife,Group type: Alone
+866,5,1.0,Other Nightlife,Group type: Friends
+867,5,0.2054,Other Nightlife,Group type: Family
+868,5,1.0,Other Nightlife,Group type: Other
+869,5,0.1764,Hot Dog Joint,Trip type: Business
+870,5,1.0,Hot Dog Joint,Trip type: Holiday
+871,5,0.5958,Hot Dog Joint,Trip type: Other
+872,5,0.5986,Hot Dog Joint,Trip duration: Night out
+873,6,1.0,Hot Dog Joint,Trip duration: Day trip
+874,6,0.6666,Hot Dog Joint,Trip duration: Weekend trip
+875,5,0.6316,Hot Dog Joint,Trip duration: Longer
+876,5,1.0,Hot Dog Joint,Group type: Alone
+877,6,1.0,Hot Dog Joint,Group type: Friends
+878,5,0.5986,Hot Dog Joint,Group type: Family
+879,5,0.6106,Hot Dog Joint,Group type: Other
+880,5,0.197,Furniture / Home Store,Trip type: Business
+881,5,0.2084,Furniture / Home Store,Trip type: Holiday
+882,5,0.5986,Furniture / Home Store,Trip type: Other
+883,5,-0.5958,Furniture / Home Store,Trip duration: Night out
+884,5,0.597,Furniture / Home Store,Trip duration: Day trip
+885,5,-0.2,Furniture / Home Store,Trip duration: Weekend trip
+886,5,0.5986,Furniture / Home Store,Trip duration: Longer
+887,5,1.0,Furniture / Home Store,Group type: Alone
+888,5,0.5986,Furniture / Home Store,Group type: Friends
+889,5,0.191,Furniture / Home Store,Group type: Family
+890,5,0.2054,Furniture / Home Store,Group type: Other
+891,5,0.2122,College Academic Building,Trip type: Business
+892,5,-0.6058,College Academic Building,Trip type: Holiday
+893,5,0.5956,College Academic Building,Trip type: Other
+894,5,-1.0,College Academic Building,Trip duration: Night out
+895,5,0.2,College Academic Building,Trip duration: Day trip
+896,5,-0.5916,College Academic Building,Trip duration: Weekend trip
+897,5,-0.197,College Academic Building,Trip duration: Longer
+898,5,1.0,College Academic Building,Group type: Alone
+899,5,-0.1964,College Academic Building,Group type: Friends
+900,5,-0.1768,College Academic Building,Group type: Family
+901,5,1.0,College Academic Building,Group type: Other
+902,5,1.0,Building,Trip type: Business
+903,5,-0.1768,Building,Trip type: Holiday
+904,5,1.0,Building,Trip type: Other
+905,5,-1.0,Building,Trip duration: Night out
+906,5,0.2274,Building,Trip duration: Day trip
+907,5,0.5982,Building,Trip duration: Weekend trip
+908,5,0.599,Building,Trip duration: Longer
+909,5,1.0,Building,Group type: Alone
+910,5,1.0,Building,Group type: Friends
+911,5,-0.1918,Building,Group type: Family
+912,5,1.0,Building,Group type: Other
+913,5,0.5952,Arcade,Trip type: Business
+914,5,1.0,Arcade,Trip type: Holiday
+915,5,1.0,Arcade,Trip type: Other
+916,5,1.0,Arcade,Trip duration: Night out
+917,5,1.0,Arcade,Trip duration: Day trip
+918,5,1.0,Arcade,Trip duration: Weekend trip
+919,5,1.0,Arcade,Trip duration: Longer
+920,5,1.0,Arcade,Group type: Alone
+921,5,1.0,Arcade,Group type: Friends
+922,5,1.0,Arcade,Group type: Family
+923,5,1.0,Arcade,Group type: Other
+924,5,0.202,Automotive Shop,Trip type: Business
+925,5,0.5984,Automotive Shop,Trip type: Holiday
+926,5,1.0,Automotive Shop,Trip type: Other
+927,5,-0.602,Automotive Shop,Trip duration: Night out
+928,5,1.0,Automotive Shop,Trip duration: Day trip
+929,5,0.6034,Automotive Shop,Trip duration: Weekend trip
+930,5,-0.2126,Automotive Shop,Trip duration: Longer
+931,5,0.612,Automotive Shop,Group type: Alone
+932,5,0.603,Automotive Shop,Group type: Friends
+933,5,0.5952,Automotive Shop,Group type: Family
+934,5,1.0,Automotive Shop,Group type: Other
+935,5,-1.0,Arts & Crafts Store,Trip type: Business
+936,5,0.6292,Arts & Crafts Store,Trip type: Holiday
+937,5,0.6276,Arts & Crafts Store,Trip type: Other
+938,5,-1.0,Arts & Crafts Store,Trip duration: Night out
+939,5,1.0,Arts & Crafts Store,Trip duration: Day trip
+940,5,1.0,Arts & Crafts Store,Trip duration: Weekend trip
+941,5,0.602,Arts & Crafts Store,Trip duration: Longer
+942,5,1.0,Arts & Crafts Store,Group type: Alone
+943,5,1.0,Arts & Crafts Store,Group type: Friends
+944,5,1.0,Arts & Crafts Store,Group type: Family
+945,5,0.637,Arts & Crafts Store,Group type: Other
+946,5,0.2074,Pool,Trip type: Business
+947,5,1.0,Pool,Trip type: Holiday
+948,5,1.0,Pool,Trip type: Other
+949,5,0.2016,Pool,Trip duration: Night out
+950,5,1.0,Pool,Trip duration: Day trip
+951,5,1.0,Pool,Trip duration: Weekend trip
+952,5,0.2038,Pool,Trip duration: Longer
+953,5,0.215,Pool,Group type: Alone
+954,5,1.0,Pool,Group type: Friends
+955,5,0.5988,Pool,Group type: Family
+956,5,1.0,Pool,Group type: Other
+957,5,-0.5916,Convenience Store,Trip type: Business
+958,5,0.6276,Convenience Store,Trip type: Holiday
+959,5,1.0,Convenience Store,Trip type: Other
+960,5,-0.2164,Convenience Store,Trip duration: Night out
+961,5,-0.1982,Convenience Store,Trip duration: Day trip
+962,5,-0.2036,Convenience Store,Trip duration: Weekend trip
+963,5,-0.215,Convenience Store,Trip duration: Longer
+964,5,1.0,Convenience Store,Group type: Alone
+965,5,1.0,Convenience Store,Group type: Friends
+966,5,1.0,Convenience Store,Group type: Family
+967,5,0.6246,Convenience Store,Group type: Other
+968,5,-0.1854,Speakeasy,Trip type: Business
+969,5,0.6096,Speakeasy,Trip type: Holiday
+970,5,1.0,Speakeasy,Trip type: Other
+971,5,0.5952,Speakeasy,Trip duration: Night out
+972,5,0.1934,Speakeasy,Trip duration: Day trip
+973,5,0.6058,Speakeasy,Trip duration: Weekend trip
+974,5,1.0,Speakeasy,Trip duration: Longer
+975,5,0.2126,Speakeasy,Group type: Alone
+976,5,1.0,Speakeasy,Group type: Friends
+977,5,1.0,Speakeasy,Group type: Family
+978,5,0.6246,Speakeasy,Group type: Other
+979,5,0.1812,Pharmacy,Trip type: Business
+980,5,-0.6014,Pharmacy,Trip type: Holiday
+981,5,1.0,Pharmacy,Trip type: Other
+982,5,-0.6128,Pharmacy,Trip duration: Night out
+983,5,0.1856,Pharmacy,Trip duration: Day trip
+984,5,-1.0,Pharmacy,Trip duration: Weekend trip
+985,5,0.1894,Pharmacy,Trip duration: Longer
+986,5,0.5982,Pharmacy,Group type: Alone
+987,5,0.1918,Pharmacy,Group type: Friends
+988,5,-0.183,Pharmacy,Group type: Family
+989,5,1.0,Pharmacy,Group type: Other
+990,5,-0.194,Campground,Trip type: Business
+991,5,1.0,Campground,Trip type: Holiday
+992,5,1.0,Campground,Trip type: Other
+993,5,-0.594,Campground,Trip duration: Night out
+994,5,1.0,Campground,Trip duration: Day trip
+995,5,1.0,Campground,Trip duration: Weekend trip
+996,5,0.5948,Campground,Trip duration: Longer
+997,5,1.0,Campground,Group type: Alone
+998,5,1.0,Campground,Group type: Friends
+999,5,0.6236,Campground,Group type: Family
+1000,5,1.0,Campground,Group type: Other
+1001,5,-0.2116,Gas Station,Trip type: Business
+1002,5,0.1872,Gas Station,Trip type: Holiday
+1003,5,0.2266,Gas Station,Trip type: Other
+1004,5,-1.0,Gas Station,Trip duration: Night out
+1005,5,0.1908,Gas Station,Trip duration: Day trip
+1006,5,-0.221,Gas Station,Trip duration: Weekend trip
+1007,5,-0.2004,Gas Station,Trip duration: Longer
+1008,5,1.0,Gas Station,Group type: Alone
+1009,5,0.198,Gas Station,Group type: Friends
+1010,5,0.5924,Gas Station,Group type: Family
+1011,5,0.21,Gas Station,Group type: Other
+1012,5,-0.2306,Caribbean Restaurant,Trip type: Business
+1013,5,1.0,Caribbean Restaurant,Trip type: Holiday
+1014,5,1.0,Caribbean Restaurant,Trip type: Other
+1015,5,1.0,Caribbean Restaurant,Trip duration: Night out
+1016,5,1.0,Caribbean Restaurant,Trip duration: Day trip
+1017,5,1.0,Caribbean Restaurant,Trip duration: Weekend trip
+1018,5,1.0,Caribbean Restaurant,Trip duration: Longer
+1019,5,0.2156,Caribbean Restaurant,Group type: Alone
+1020,5,1.0,Caribbean Restaurant,Group type: Friends
+1021,5,1.0,Caribbean Restaurant,Group type: Family
+1022,5,1.0,Caribbean Restaurant,Group type: Other
+1023,5,-0.1984,Casino,Trip type: Business
+1024,5,1.0,Casino,Trip type: Holiday
+1025,5,0.615,Casino,Trip type: Other
+1026,5,1.0,Casino,Trip duration: Night out
+1027,5,0.6002,Casino,Trip duration: Day trip
+1028,5,1.0,Casino,Trip duration: Weekend trip
+1029,5,1.0,Casino,Trip duration: Longer
+1030,5,1.0,Casino,Group type: Alone
+1031,5,1.0,Casino,Group type: Friends
+1032,5,0.2168,Casino,Group type: Family
+1033,5,0.615,Casino,Group type: Other
+1034,5,0.6122,General Travel,Trip type: Business
+1035,5,1.0,General Travel,Trip type: Holiday
+1036,5,1.0,General Travel,Trip type: Other
+1037,5,-0.1958,General Travel,Trip duration: Night out
+1038,5,1.0,General Travel,Trip duration: Day trip
+1039,5,0.5968,General Travel,Trip duration: Weekend trip
+1040,5,0.5982,General Travel,Trip duration: Longer
+1041,5,1.0,General Travel,Group type: Alone
+1042,5,1.0,General Travel,Group type: Friends
+1043,5,1.0,General Travel,Group type: Family
+1044,5,0.2254,General Travel,Group type: Other
+1045,5,0.6058,Residence,Trip type: Business
+1046,5,-0.1936,Residence,Trip type: Holiday
+1047,5,1.0,Residence,Trip type: Other
+1048,5,0.1918,Residence,Trip duration: Night out
+1049,5,1.0,Residence,Trip duration: Day trip
+1050,5,0.6048,Residence,Trip duration: Weekend trip
+1051,5,1.0,Residence,Trip duration: Longer
+1052,5,1.0,Residence,Group type: Alone
+1053,5,0.6052,Residence,Group type: Friends
+1054,5,1.0,Residence,Group type: Family
+1055,5,0.213,Residence,Group type: Other
+1056,5,-0.5898,Theme Park,Trip type: Business
+1057,5,1.0,Theme Park,Trip type: Holiday
+1058,5,1.0,Theme Park,Trip type: Other
+1059,5,0.2018,Theme Park,Trip duration: Night out
+1060,5,1.0,Theme Park,Trip duration: Day trip
+1061,5,1.0,Theme Park,Trip duration: Weekend trip
+1062,5,1.0,Theme Park,Trip duration: Longer
+1063,5,0.6146,Theme Park,Group type: Alone
+1064,5,1.0,Theme Park,Group type: Friends
+1065,5,1.0,Theme Park,Group type: Family
+1066,5,1.0,Theme Park,Group type: Other
+1067,5,0.6004,Convention Center,Trip type: Business
+1068,5,1.0,Convention Center,Trip type: Holiday
+1069,5,1.0,Convention Center,Trip type: Other
+1070,5,-0.6166,Convention Center,Trip duration: Night out
+1071,5,1.0,Convention Center,Trip duration: Day trip
+1072,5,0.6002,Convention Center,Trip duration: Weekend trip
+1073,5,0.6164,Convention Center,Trip duration: Longer
+1074,5,0.2202,Convention Center,Group type: Alone
+1075,5,1.0,Convention Center,Group type: Friends
+1076,5,0.5854,Convention Center,Group type: Family
+1077,5,1.0,Convention Center,Group type: Other
+1078,5,0.191,Sculpture Garden,Trip type: Business
+1079,5,1.0,Sculpture Garden,Trip type: Holiday
+1080,5,1.0,Sculpture Garden,Trip type: Other
+1081,5,-0.1982,Sculpture Garden,Trip duration: Night out
+1082,5,1.0,Sculpture Garden,Trip duration: Day trip
+1083,5,1.0,Sculpture Garden,Trip duration: Weekend trip
+1084,5,0.1922,Sculpture Garden,Trip duration: Longer
+1085,5,1.0,Sculpture Garden,Group type: Alone
+1086,5,1.0,Sculpture Garden,Group type: Friends
+1087,5,1.0,Sculpture Garden,Group type: Family
+1088,5,1.0,Sculpture Garden,Group type: Other
+1089,5,-0.6032,Donut Shop,Trip type: Business
+1090,5,0.603,Donut Shop,Trip type: Holiday
+1091,5,1.0,Donut Shop,Trip type: Other
+1092,5,-0.194,Donut Shop,Trip duration: Night out
+1093,5,1.0,Donut Shop,Trip duration: Day trip
+1094,5,0.5966,Donut Shop,Trip duration: Weekend trip
+1095,5,0.2152,Donut Shop,Trip duration: Longer
+1096,5,1.0,Donut Shop,Group type: Alone
+1097,5,1.0,Donut Shop,Group type: Friends
+1098,5,1.0,Donut Shop,Group type: Family
+1099,5,0.6258,Donut Shop,Group type: Other
+1100,5,0.21,Salad Place,Trip type: Business
+1101,5,1.0,Salad Place,Trip type: Holiday
+1102,5,0.6128,Salad Place,Trip type: Other
+1103,5,-0.1976,Salad Place,Trip duration: Night out
+1104,5,1.0,Salad Place,Trip duration: Day trip
+1105,5,0.6018,Salad Place,Trip duration: Weekend trip
+1106,5,0.2088,Salad Place,Trip duration: Longer
+1107,5,1.0,Salad Place,Group type: Alone
+1108,5,1.0,Salad Place,Group type: Friends
+1109,5,1.0,Salad Place,Group type: Family
+1110,5,1.0,Salad Place,Group type: Other
+1111,5,0.227,Comedy Club,Trip type: Business
+1112,5,1.0,Comedy Club,Trip type: Holiday
+1113,5,1.0,Comedy Club,Trip type: Other
+1114,5,1.0,Comedy Club,Trip duration: Night out
+1115,5,1.0,Comedy Club,Trip duration: Day trip
+1116,5,1.0,Comedy Club,Trip duration: Weekend trip
+1117,5,0.2094,Comedy Club,Trip duration: Longer
+1118,5,0.6174,Comedy Club,Group type: Alone
+1119,5,1.0,Comedy Club,Group type: Friends
+1120,5,1.0,Comedy Club,Group type: Family
+1121,5,1.0,Comedy Club,Group type: Other
+1122,5,0.5934,Juice Bar,Trip type: Business
+1123,5,1.0,Juice Bar,Trip type: Holiday
+1124,5,1.0,Juice Bar,Trip type: Other
+1125,5,0.5948,Juice Bar,Trip duration: Night out
+1126,5,1.0,Juice Bar,Trip duration: Day trip
+1127,5,1.0,Juice Bar,Trip duration: Weekend trip
+1128,5,0.2242,Juice Bar,Trip duration: Longer
+1129,5,1.0,Juice Bar,Group type: Alone
+1130,5,1.0,Juice Bar,Group type: Friends
+1131,5,1.0,Juice Bar,Group type: Family
+1132,5,0.2228,Juice Bar,Group type: Other
+1133,5,-0.2072,Warehouse Store,Trip type: Business
+1134,5,0.2006,Warehouse Store,Trip type: Holiday
+1135,5,0.6164,Warehouse Store,Trip type: Other
+1136,5,-1.0,Warehouse Store,Trip duration: Night out
+1137,5,0.2274,Warehouse Store,Trip duration: Day trip
+1138,5,0.197,Warehouse Store,Trip duration: Weekend trip
+1139,5,0.2116,Warehouse Store,Trip duration: Longer
+1140,5,1.0,Warehouse Store,Group type: Alone
+1141,5,1.0,Warehouse Store,Group type: Friends
+1142,5,0.2268,Warehouse Store,Group type: Family
+1143,5,0.6306,Warehouse Store,Group type: Other
+1144,5,0.2152,German Restaurant,Trip type: Business
+1145,5,1.0,German Restaurant,Trip type: Holiday
+1146,5,1.0,German Restaurant,Trip type: Other
+1147,5,1.0,German Restaurant,Trip duration: Night out
+1148,5,1.0,German Restaurant,Trip duration: Day trip
+1149,5,0.6074,German Restaurant,Trip duration: Weekend trip
+1150,5,0.6344,German Restaurant,Trip duration: Longer
+1151,5,1.0,German Restaurant,Group type: Alone
+1152,5,1.0,German Restaurant,Group type: Friends
+1153,5,1.0,German Restaurant,Group type: Family
+1154,5,1.0,German Restaurant,Group type: Other
+1155,5,-0.6122,Bridge,Trip type: Business
+1156,5,0.1766,Bridge,Trip type: Holiday
+1157,5,0.6142,Bridge,Trip type: Other
+1158,5,-0.6234,Bridge,Trip duration: Night out
+1159,5,0.603,Bridge,Trip duration: Day trip
+1160,5,0.1954,Bridge,Trip duration: Weekend trip
+1161,5,-0.586,Bridge,Trip duration: Longer
+1162,5,0.612,Bridge,Group type: Alone
+1163,5,0.6114,Bridge,Group type: Friends
+1164,5,0.6008,Bridge,Group type: Family
+1165,5,1.0,Bridge,Group type: Other
+1166,5,-1.0,Sporting Goods Shop,Trip type: Business
+1167,5,0.6046,Sporting Goods Shop,Trip type: Holiday
+1168,5,1.0,Sporting Goods Shop,Trip type: Other
+1169,5,-0.1888,Sporting Goods Shop,Trip duration: Night out
+1170,5,1.0,Sporting Goods Shop,Trip duration: Day trip
+1171,5,0.6044,Sporting Goods Shop,Trip duration: Weekend trip
+1172,5,0.5968,Sporting Goods Shop,Trip duration: Longer
+1173,5,0.615,Sporting Goods Shop,Group type: Alone
+1174,5,0.5988,Sporting Goods Shop,Group type: Friends
+1175,5,1.0,Sporting Goods Shop,Group type: Family
+1176,5,0.6308,Sporting Goods Shop,Group type: Other
+1177,5,-0.6308,Public Art,Trip type: Business
+1178,5,1.0,Public Art,Trip type: Holiday
+1179,5,1.0,Public Art,Trip type: Other
+1180,5,-0.202,Public Art,Trip duration: Night out
+1181,5,1.0,Public Art,Trip duration: Day trip
+1182,5,0.6142,Public Art,Trip duration: Weekend trip
+1183,5,1.0,Public Art,Trip duration: Longer
+1184,5,1.0,Public Art,Group type: Alone
+1185,5,1.0,Public Art,Group type: Friends
+1186,5,1.0,Public Art,Group type: Family
+1187,5,0.6262,Public Art,Group type: Other
+1188,5,-0.5814,Harbor / Marina,Trip type: Business
+1189,5,1.0,Harbor / Marina,Trip type: Holiday
+1190,5,0.6288,Harbor / Marina,Trip type: Other
+1191,5,0.1886,Harbor / Marina,Trip duration: Night out
+1192,5,1.0,Harbor / Marina,Trip duration: Day trip
+1193,5,1.0,Harbor / Marina,Trip duration: Weekend trip
+1194,5,1.0,Harbor / Marina,Trip duration: Longer
+1195,5,0.6128,Harbor / Marina,Group type: Alone
+1196,5,1.0,Harbor / Marina,Group type: Friends
+1197,5,1.0,Harbor / Marina,Group type: Family
+1198,5,1.0,Harbor / Marina,Group type: Other
+1199,5,1.0,Bank,Trip type: Business
+1200,5,-0.594,Bank,Trip type: Holiday
+1201,5,0.6164,Bank,Trip type: Other
+1202,5,-1.0,Bank,Trip duration: Night out
+1203,5,1.0,Bank,Trip duration: Day trip
+1204,5,-0.6072,Bank,Trip duration: Weekend trip
+1205,5,0.2006,Bank,Trip duration: Longer
+1206,5,1.0,Bank,Group type: Alone
+1207,5,-0.203,Bank,Group type: Friends
+1208,5,-0.1958,Bank,Group type: Family
+1209,5,0.593,Bank,Group type: Other
+1210,5,-1.0,Spiritual Center,Trip type: Business
+1211,5,1.0,Spiritual Center,Trip type: Holiday
+1212,5,1.0,Spiritual Center,Trip type: Other
+1213,5,-0.623,Spiritual Center,Trip duration: Night out
+1214,5,1.0,Spiritual Center,Trip duration: Day trip
+1215,5,0.5938,Spiritual Center,Trip duration: Weekend trip
+1216,5,0.6128,Spiritual Center,Trip duration: Longer
+1217,5,1.0,Spiritual Center,Group type: Alone
+1218,5,0.5924,Spiritual Center,Group type: Friends
+1219,5,1.0,Spiritual Center,Group type: Family
+1220,5,0.2202,Spiritual Center,Group type: Other
+1221,5,-0.1814,Winery,Trip type: Business
+1222,5,0.6292,Winery,Trip type: Holiday
+1223,5,0.6306,Winery,Trip type: Other
+1224,5,-0.6112,Winery,Trip duration: Night out
+1225,5,1.0,Winery,Trip duration: Day trip
+1226,5,0.6042,Winery,Trip duration: Weekend trip
+1227,5,0.5936,Winery,Trip duration: Longer
+1228,5,1.0,Winery,Group type: Alone
+1229,5,1.0,Winery,Group type: Friends
+1230,5,0.6002,Winery,Group type: Family
+1231,5,1.0,Winery,Group type: Other
+1232,5,-1.0,Spa,Trip type: Business
+1233,5,1.0,Spa,Trip type: Holiday
+1234,5,1.0,Spa,Trip type: Other
+1235,5,-0.5956,Spa,Trip duration: Night out
+1236,5,1.0,Spa,Trip duration: Day trip
+1237,5,1.0,Spa,Trip duration: Weekend trip
+1238,5,0.6042,Spa,Trip duration: Longer
+1239,5,1.0,Spa,Group type: Alone
+1240,5,1.0,Spa,Group type: Friends
+1241,5,1.0,Spa,Group type: Family
+1242,5,1.0,Spa,Group type: Other
+1243,5,-0.1976,Snack Place,Trip type: Business
+1244,5,1.0,Snack Place,Trip type: Holiday
+1245,5,1.0,Snack Place,Trip type: Other
+1246,5,1.0,Snack Place,Trip duration: Night out
+1247,5,1.0,Snack Place,Trip duration: Day trip
+1248,5,1.0,Snack Place,Trip duration: Weekend trip
+1249,5,1.0,Snack Place,Trip duration: Longer
+1250,5,0.6176,Snack Place,Group type: Alone
+1251,5,1.0,Snack Place,Group type: Friends
+1252,5,1.0,Snack Place,Group type: Family
+1253,5,1.0,Snack Place,Group type: Other
+1254,5,0.197,Middle Eastern Restaurant,Trip type: Business
+1255,5,1.0,Middle Eastern Restaurant,Trip type: Holiday
+1256,5,1.0,Middle Eastern Restaurant,Trip type: Other
+1257,5,0.5968,Middle Eastern Restaurant,Trip duration: Night out
+1258,5,0.5946,Middle Eastern Restaurant,Trip duration: Day trip
+1259,5,0.6042,Middle Eastern Restaurant,Trip duration: Weekend trip
+1260,5,0.6002,Middle Eastern Restaurant,Trip duration: Longer
+1261,5,1.0,Middle Eastern Restaurant,Group type: Alone
+1262,5,1.0,Middle Eastern Restaurant,Group type: Friends
+1263,5,1.0,Middle Eastern Restaurant,Group type: Family
+1264,5,1.0,Middle Eastern Restaurant,Group type: Other
+1265,5,-0.1908,Cosmetics Shop,Trip type: Business
+1266,5,-0.1982,Cosmetics Shop,Trip type: Holiday
+1267,5,1.0,Cosmetics Shop,Trip type: Other
+1268,5,-0.6114,Cosmetics Shop,Trip duration: Night out
+1269,5,1.0,Cosmetics Shop,Trip duration: Day trip
+1270,5,-0.1928,Cosmetics Shop,Trip duration: Weekend trip
+1271,5,0.2032,Cosmetics Shop,Trip duration: Longer
+1272,5,1.0,Cosmetics Shop,Group type: Alone
+1273,5,0.2044,Cosmetics Shop,Group type: Friends
+1274,5,1.0,Cosmetics Shop,Group type: Family
+1275,5,0.626,Cosmetics Shop,Group type: Other
+1276,5,0.187,Gluten-free Restaurant,Trip type: Business
+1277,5,1.0,Gluten-free Restaurant,Trip type: Holiday
+1278,5,0.6226,Gluten-free Restaurant,Trip type: Other
+1279,5,0.6048,Gluten-free Restaurant,Trip duration: Night out
+1280,5,1.0,Gluten-free Restaurant,Trip duration: Day trip
+1281,5,0.6086,Gluten-free Restaurant,Trip duration: Weekend trip
+1282,5,-0.2106,Gluten-free Restaurant,Trip duration: Longer
+1283,5,1.0,Gluten-free Restaurant,Group type: Alone
+1284,5,1.0,Gluten-free Restaurant,Group type: Friends
+1285,5,1.0,Gluten-free Restaurant,Group type: Family
+1286,5,1.0,Gluten-free Restaurant,Group type: Other
+1287,5,1.0,Airport,Trip type: Business
+1288,5,1.0,Airport,Trip type: Holiday
+1289,5,1.0,Airport,Trip type: Other
+1290,5,0.1936,Airport,Trip duration: Night out
+1291,5,1.0,Airport,Trip duration: Day trip
+1292,5,1.0,Airport,Trip duration: Weekend trip
+1293,5,1.0,Airport,Trip duration: Longer
+1294,5,1.0,Airport,Group type: Alone
+1295,5,1.0,Airport,Group type: Friends
+1296,5,1.0,Airport,Group type: Family
+1297,5,0.6136,Airport,Group type: Other
+1298,5,0.1872,College Classroom,Trip type: Business
+1299,5,-0.6248,College Classroom,Trip type: Holiday
+1300,5,0.2254,College Classroom,Trip type: Other
+1301,5,-1.0,College Classroom,Trip duration: Night out
+1302,5,-0.1834,College Classroom,Trip duration: Day trip
+1303,5,-0.5984,College Classroom,Trip duration: Weekend trip
+1304,5,-0.5874,College Classroom,Trip duration: Longer
+1305,5,0.6032,College Classroom,Group type: Alone
+1306,5,1.0,College Classroom,Group type: Friends
+1307,5,0.1972,College Classroom,Group type: Family
+1308,5,0.2182,College Classroom,Group type: Other
+1309,5,-0.2122,School,Trip type: Business
+1310,5,-0.6096,School,Trip type: Holiday
+1311,5,0.2224,School,Trip type: Other
+1312,5,-1.0,School,Trip duration: Night out
+1313,5,0.5944,School,Trip duration: Day trip
+1314,5,-0.603,School,Trip duration: Weekend trip
+1315,5,-0.2074,School,Trip duration: Longer
+1316,5,1.0,School,Group type: Alone
+1317,5,0.5894,School,Group type: Friends
+1318,5,-0.5918,School,Group type: Family
+1319,5,0.6134,School,Group type: Other
+1320,5,-0.2176,Electronics Store,Trip type: Business
+1321,5,1.0,Electronics Store,Trip type: Holiday
+1322,5,1.0,Electronics Store,Trip type: Other
+1323,5,-1.0,Electronics Store,Trip duration: Night out
+1324,5,1.0,Electronics Store,Trip duration: Day trip
+1325,5,0.206,Electronics Store,Trip duration: Weekend trip
+1326,5,1.0,Electronics Store,Trip duration: Longer
+1327,5,1.0,Electronics Store,Group type: Alone
+1328,5,0.6004,Electronics Store,Group type: Friends
+1329,5,1.0,Electronics Store,Group type: Family
+1330,5,0.6176,Electronics Store,Group type: Other
+1331,5,0.6142,Buffet,Trip type: Business
+1332,5,1.0,Buffet,Trip type: Holiday
+1333,5,1.0,Buffet,Trip type: Other
+1334,5,1.0,Buffet,Trip duration: Night out
+1335,5,1.0,Buffet,Trip duration: Day trip
+1336,5,0.6002,Buffet,Trip duration: Weekend trip
+1337,5,0.1996,Buffet,Trip duration: Longer
+1338,5,1.0,Buffet,Group type: Alone
+1339,5,0.597,Buffet,Group type: Friends
+1340,5,1.0,Buffet,Group type: Family
+1341,5,0.6254,Buffet,Group type: Other
+1342,5,-0.6138,Aquarium,Trip type: Business
+1343,5,1.0,Aquarium,Trip type: Holiday
+1344,5,0.6198,Aquarium,Trip type: Other
+1345,5,-0.1898,Aquarium,Trip duration: Night out
+1346,5,1.0,Aquarium,Trip duration: Day trip
+1347,5,1.0,Aquarium,Trip duration: Weekend trip
+1348,5,0.6302,Aquarium,Trip duration: Longer
+1349,5,1.0,Aquarium,Group type: Alone
+1350,5,1.0,Aquarium,Group type: Friends
+1351,5,1.0,Aquarium,Group type: Family
+1352,5,1.0,Aquarium,Group type: Other
+1353,5,0.216,Bookstore,Trip type: Business
+1354,5,-0.1922,Bookstore,Trip type: Holiday
+1355,5,0.627,Bookstore,Trip type: Other
+1356,5,-0.5996,Bookstore,Trip duration: Night out
+1357,5,0.6266,Bookstore,Trip duration: Day trip
+1358,5,0.1914,Bookstore,Trip duration: Weekend trip
+1359,5,0.2278,Bookstore,Trip duration: Longer
+1360,5,1.0,Bookstore,Group type: Alone
+1361,5,1.0,Bookstore,Group type: Friends
+1362,5,0.626,Bookstore,Group type: Family
+1363,5,1.0,Bookstore,Group type: Other
+1364,5,0.598,Tea Room,Trip type: Business
+1365,5,0.5936,Tea Room,Trip type: Holiday
+1366,5,1.0,Tea Room,Trip type: Other
+1367,5,0.1806,Tea Room,Trip duration: Night out
+1368,5,1.0,Tea Room,Trip duration: Day trip
+1369,5,1.0,Tea Room,Trip duration: Weekend trip
+1370,5,1.0,Tea Room,Trip duration: Longer
+1371,5,1.0,Tea Room,Group type: Alone
+1372,5,1.0,Tea Room,Group type: Friends
+1373,5,0.595,Tea Room,Group type: Family
+1374,5,1.0,Tea Room,Group type: Other
+1375,5,-0.1952,Laundry Service,Trip type: Business
+1376,5,-0.1906,Laundry Service,Trip type: Holiday
+1377,5,1.0,Laundry Service,Trip type: Other
+1378,5,-0.1926,Laundry Service,Trip duration: Night out
+1379,5,-0.203,Laundry Service,Trip duration: Day trip
+1380,5,-0.1868,Laundry Service,Trip duration: Weekend trip
+1381,5,-0.2154,Laundry Service,Trip duration: Longer
+1382,5,1.0,Laundry Service,Group type: Alone
+1383,5,-0.1988,Laundry Service,Group type: Friends
+1384,5,0.187,Laundry Service,Group type: Family
+1385,5,0.2202,Laundry Service,Group type: Other
+1386,5,-0.1998,Print Shop,Trip type: Business
+1387,5,-0.1924,Print Shop,Trip type: Holiday
+1388,5,1.0,Print Shop,Trip type: Other
+1389,5,-1.0,Print Shop,Trip duration: Night out
+1390,5,0.2202,Print Shop,Trip duration: Day trip
+1391,5,-0.5968,Print Shop,Trip duration: Weekend trip
+1392,5,0.2034,Print Shop,Trip duration: Longer
+1393,5,1.0,Print Shop,Group type: Alone
+1394,5,0.592,Print Shop,Group type: Friends
+1395,5,-0.184,Print Shop,Group type: Family
+1396,5,0.6164,Print Shop,Group type: Other
+1397,5,-0.199,Irish Pub,Trip type: Business
+1398,5,1.0,Irish Pub,Trip type: Holiday
+1399,5,1.0,Irish Pub,Trip type: Other
+1400,5,1.0,Irish Pub,Trip duration: Night out
+1401,5,1.0,Irish Pub,Trip duration: Day trip
+1402,5,0.615,Irish Pub,Trip duration: Weekend trip
+1403,5,1.0,Irish Pub,Trip duration: Longer
+1404,5,1.0,Irish Pub,Group type: Alone
+1405,5,1.0,Irish Pub,Group type: Friends
+1406,5,1.0,Irish Pub,Group type: Family
+1407,5,0.5982,Irish Pub,Group type: Other
+1408,5,-0.6056,Pet Store,Trip type: Business
+1409,5,1.0,Pet Store,Trip type: Holiday
+1410,5,0.6162,Pet Store,Trip type: Other
+1411,5,-1.0,Pet Store,Trip duration: Night out
+1412,5,0.6164,Pet Store,Trip duration: Day trip
+1413,5,-0.1844,Pet Store,Trip duration: Weekend trip
+1414,5,0.2118,Pet Store,Trip duration: Longer
+1415,5,1.0,Pet Store,Group type: Alone
+1416,5,1.0,Pet Store,Group type: Friends
+1417,5,1.0,Pet Store,Group type: Family
+1418,5,1.0,Pet Store,Group type: Other
+1419,5,0.2028,College Residence Hall,Trip type: Business
+1420,5,0.1874,College Residence Hall,Trip type: Holiday
+1421,5,0.2184,College Residence Hall,Trip type: Other
+1422,5,-1.0,College Residence Hall,Trip duration: Night out
+1423,5,0.208,College Residence Hall,Trip duration: Day trip
+1424,5,0.5952,College Residence Hall,Trip duration: Weekend trip
+1425,5,0.189,College Residence Hall,Trip duration: Longer
+1426,5,1.0,College Residence Hall,Group type: Alone
+1427,5,0.5982,College Residence Hall,Group type: Friends
+1428,5,-0.1996,College Residence Hall,Group type: Family
+1429,5,0.628,College Residence Hall,Group type: Other
+1430,5,-0.206,Bagel Shop,Trip type: Business
+1431,5,1.0,Bagel Shop,Trip type: Holiday
+1432,5,1.0,Bagel Shop,Trip type: Other
+1433,5,-0.2122,Bagel Shop,Trip duration: Night out
+1434,5,1.0,Bagel Shop,Trip duration: Day trip
+1435,5,1.0,Bagel Shop,Trip duration: Weekend trip
+1436,5,0.1924,Bagel Shop,Trip duration: Longer
+1437,5,1.0,Bagel Shop,Group type: Alone
+1438,5,1.0,Bagel Shop,Group type: Friends
+1439,5,1.0,Bagel Shop,Group type: Family
+1440,5,1.0,Bagel Shop,Group type: Other
+1441,5,-1.0,College Stadium,Trip type: Business
+1442,5,-0.1906,College Stadium,Trip type: Holiday
+1443,5,1.0,College Stadium,Trip type: Other
+1444,5,0.1822,College Stadium,Trip duration: Night out
+1445,5,1.0,College Stadium,Trip duration: Day trip
+1446,5,0.2102,College Stadium,Trip duration: Weekend trip
+1447,5,-0.1854,College Stadium,Trip duration: Longer
+1448,5,0.1888,College Stadium,Group type: Alone
+1449,5,1.0,College Stadium,Group type: Friends
+1450,5,0.5946,College Stadium,Group type: Family
+1451,5,1.0,College Stadium,Group type: Other
+1452,5,-0.2014,Bike Shop,Trip type: Business
+1453,5,0.598,Bike Shop,Trip type: Holiday
+1454,5,0.6162,Bike Shop,Trip type: Other
+1455,5,-0.594,Bike Shop,Trip duration: Night out
+1456,5,0.5956,Bike Shop,Trip duration: Day trip
+1457,5,0.1892,Bike Shop,Trip duration: Weekend trip
+1458,5,0.186,Bike Shop,Trip duration: Longer
+1459,5,0.6136,Bike Shop,Group type: Alone
+1460,5,1.0,Bike Shop,Group type: Friends
+1461,5,1.0,Bike Shop,Group type: Family
+1462,5,1.0,Bike Shop,Group type: Other
+1463,5,-0.192,College Library,Trip type: Business
+1464,5,-0.5958,College Library,Trip type: Holiday
+1465,5,0.615,College Library,Trip type: Other
+1466,5,-1.0,College Library,Trip duration: Night out
+1467,5,0.5938,College Library,Trip duration: Day trip
+1468,5,-0.621,College Library,Trip duration: Weekend trip
+1469,5,0.2044,College Library,Trip duration: Longer
+1470,5,1.0,College Library,Group type: Alone
+1471,5,1.0,College Library,Group type: Friends
+1472,5,-1.0,College Library,Group type: Family
+1473,5,0.6128,College Library,Group type: Other
+1474,5,0.2114,Big Box Store,Trip type: Business
+1475,5,1.0,Big Box Store,Trip type: Holiday
+1476,5,1.0,Big Box Store,Trip type: Other
+1477,5,-1.0,Big Box Store,Trip duration: Night out
+1478,5,0.1922,Big Box Store,Trip duration: Day trip
+1479,5,0.5956,Big Box Store,Trip duration: Weekend trip
+1480,5,0.6012,Big Box Store,Trip duration: Longer
+1481,5,1.0,Big Box Store,Group type: Alone
+1482,5,1.0,Big Box Store,Group type: Friends
+1483,5,1.0,Big Box Store,Group type: Family
+1484,5,1.0,Big Box Store,Group type: Other
+1485,5,0.5998,Residential Building (Apartment / Condo),Trip type: Business
+1486,5,1.0,Residential Building (Apartment / Condo),Trip type: Holiday
+1487,5,1.0,Residential Building (Apartment / Condo),Trip type: Other
+1488,5,-0.5844,Residential Building (Apartment / Condo),Trip duration: Night out
+1489,5,0.5998,Residential Building (Apartment / Condo),Trip duration: Day trip
+1490,5,1.0,Residential Building (Apartment / Condo),Trip duration: Weekend trip
+1491,5,0.603,Residential Building (Apartment / Condo),Trip duration: Longer
+1492,5,0.5952,Residential Building (Apartment / Condo),Group type: Alone
+1493,5,0.196,Residential Building (Apartment / Condo),Group type: Friends
+1494,5,1.0,Residential Building (Apartment / Condo),Group type: Family
+1495,5,0.6218,Residential Building (Apartment / Condo),Group type: Other
+1496,5,1.0,Design Studio,Trip type: Business
+1497,5,-1.0,Design Studio,Trip type: Holiday
+1498,5,0.6016,Design Studio,Trip type: Other
+1499,5,-1.0,Design Studio,Trip duration: Night out
+1500,5,0.1696,Design Studio,Trip duration: Day trip
+1501,5,0.6016,Design Studio,Trip duration: Weekend trip
+1502,5,0.208,Design Studio,Trip duration: Longer
+1503,5,0.6096,Design Studio,Group type: Alone
+1504,5,0.589,Design Studio,Group type: Friends
+1505,5,-0.2,Design Studio,Group type: Family
+1506,5,1.0,Design Studio,Group type: Other
+1507,5,-0.5968,Candy Store,Trip type: Business
+1508,5,1.0,Candy Store,Trip type: Holiday
+1509,5,0.6276,Candy Store,Trip type: Other
+1510,5,-0.1864,Candy Store,Trip duration: Night out
+1511,5,0.603,Candy Store,Trip duration: Day trip
+1512,5,1.0,Candy Store,Trip duration: Weekend trip
+1513,5,-0.1954,Candy Store,Trip duration: Longer
+1514,5,1.0,Candy Store,Group type: Alone
+1515,5,1.0,Candy Store,Group type: Friends
+1516,5,1.0,Candy Store,Group type: Family
+1517,5,1.0,Candy Store,Group type: Other
+1518,5,0.2018,Market,Trip type: Business
+1519,5,1.0,Market,Trip type: Holiday
+1520,5,0.6142,Market,Trip type: Other
+1521,5,-0.6138,Market,Trip duration: Night out
+1522,5,1.0,Market,Trip duration: Day trip
+1523,5,0.5934,Market,Trip duration: Weekend trip
+1524,5,0.5988,Market,Trip duration: Longer
+1525,5,1.0,Market,Group type: Alone
+1526,5,0.6282,Market,Group type: Friends
+1527,5,1.0,Market,Group type: Family
+1528,5,1.0,Market,Group type: Other
+1529,5,-0.1824,Jewelry Store,Trip type: Business
+1530,5,0.1966,Jewelry Store,Trip type: Holiday
+1531,5,0.6242,Jewelry Store,Trip type: Other
+1532,5,-0.194,Jewelry Store,Trip duration: Night out
+1533,5,0.5992,Jewelry Store,Trip duration: Day trip
+1534,5,0.1932,Jewelry Store,Trip duration: Weekend trip
+1535,5,0.5922,Jewelry Store,Trip duration: Longer
+1536,5,1.0,Jewelry Store,Group type: Alone
+1537,5,0.6128,Jewelry Store,Group type: Friends
+1538,5,0.5888,Jewelry Store,Group type: Family
+1539,5,0.6176,Jewelry Store,Group type: Other
+1540,5,0.6056,College Administrative Building,Trip type: Business
+1541,5,-0.5944,College Administrative Building,Trip type: Holiday
+1542,5,0.596,College Administrative Building,Trip type: Other
+1543,5,-0.6218,College Administrative Building,Trip duration: Night out
+1544,5,-0.1832,College Administrative Building,Trip duration: Day trip
+1545,5,-1.0,College Administrative Building,Trip duration: Weekend trip
+1546,5,0.2014,College Administrative Building,Trip duration: Longer
+1547,5,0.5932,College Administrative Building,Group type: Alone
+1548,5,0.5968,College Administrative Building,Group type: Friends
+1549,5,-0.5902,College Administrative Building,Group type: Family
+1550,5,0.2076,College Administrative Building,Group type: Other
+1551,5,-0.6196,Discount Store,Trip type: Business
+1552,5,0.1892,Discount Store,Trip type: Holiday
+1553,5,0.619,Discount Store,Trip type: Other
+1554,5,-0.2138,Discount Store,Trip duration: Night out
+1555,5,1.0,Discount Store,Trip duration: Day trip
+1556,5,0.2234,Discount Store,Trip duration: Weekend trip
+1557,5,0.2002,Discount Store,Trip duration: Longer
+1558,5,1.0,Discount Store,Group type: Alone
+1559,5,1.0,Discount Store,Group type: Friends
+1560,5,1.0,Discount Store,Group type: Family
+1561,5,1.0,Discount Store,Group type: Other
+1562,5,0.2234,University,Trip type: Business
+1563,5,-0.623,University,Trip type: Holiday
+1564,5,1.0,University,Trip type: Other
+1565,5,-1.0,University,Trip duration: Night out
+1566,5,-0.1814,University,Trip duration: Day trip
+1567,5,-1.0,University,Trip duration: Weekend trip
+1568,5,0.61,University,Trip duration: Longer
+1569,5,1.0,University,Group type: Alone
+1570,5,0.6034,University,Group type: Friends
+1571,5,-0.2002,University,Group type: Family
+1572,5,1.0,University,Group type: Other
+1573,5,0.186,Racetrack,Trip type: Business
+1574,5,0.5974,Racetrack,Trip type: Holiday
+1575,5,1.0,Racetrack,Trip type: Other
+1576,5,-0.1898,Racetrack,Trip duration: Night out
+1577,5,1.0,Racetrack,Trip duration: Day trip
+1578,5,1.0,Racetrack,Trip duration: Weekend trip
+1579,5,0.1954,Racetrack,Trip duration: Longer
+1580,5,1.0,Racetrack,Group type: Alone
+1581,5,1.0,Racetrack,Group type: Friends
+1582,5,0.5944,Racetrack,Group type: Family
+1583,5,1.0,Racetrack,Group type: Other
+1584,5,-0.584,Botanical Garden,Trip type: Business
+1585,5,1.0,Botanical Garden,Trip type: Holiday
+1586,5,0.628,Botanical Garden,Trip type: Other
+1587,5,-0.1822,Botanical Garden,Trip duration: Night out
+1588,5,1.0,Botanical Garden,Trip duration: Day trip
+1589,5,1.0,Botanical Garden,Trip duration: Weekend trip
+1590,5,0.5878,Botanical Garden,Trip duration: Longer
+1591,5,1.0,Botanical Garden,Group type: Alone
+1592,5,1.0,Botanical Garden,Group type: Friends
+1593,5,1.0,Botanical Garden,Group type: Family
+1594,5,1.0,Botanical Garden,Group type: Other
+1595,5,-0.6064,National Park,Trip type: Business
+1596,5,1.0,National Park,Trip type: Holiday
+1597,5,1.0,National Park,Trip type: Other
+1598,5,-0.5968,National Park,Trip duration: Night out
+1599,5,1.0,National Park,Trip duration: Day trip
+1600,5,1.0,National Park,Trip duration: Weekend trip
+1601,5,0.61,National Park,Trip duration: Longer
+1602,5,0.6188,National Park,Group type: Alone
+1603,5,1.0,National Park,Group type: Friends
+1604,5,1.0,National Park,Group type: Family
+1605,5,0.6386,National Park,Group type: Other
+1606,5,0.1718,Shipping Store,Trip type: Business
+1607,5,0.5948,Shipping Store,Trip type: Holiday
+1608,5,1.0,Shipping Store,Trip type: Other
+1609,5,-1.0,Shipping Store,Trip duration: Night out
+1610,5,1.0,Shipping Store,Trip duration: Day trip
+1611,5,0.1958,Shipping Store,Trip duration: Weekend trip
+1612,5,0.197,Shipping Store,Trip duration: Longer
+1613,5,1.0,Shipping Store,Group type: Alone
+1614,5,0.6218,Shipping Store,Group type: Friends
+1615,5,0.5982,Shipping Store,Group type: Family
+1616,5,0.6278,Shipping Store,Group type: Other
+1617,5,-1.0,Water Park,Trip type: Business
+1618,5,1.0,Water Park,Trip type: Holiday
+1619,5,1.0,Water Park,Trip type: Other
+1620,5,-0.615,Water Park,Trip duration: Night out
+1621,5,1.0,Water Park,Trip duration: Day trip
+1622,5,1.0,Water Park,Trip duration: Weekend trip
+1623,5,0.6142,Water Park,Trip duration: Longer
+1624,5,0.6188,Water Park,Group type: Alone
+1625,5,1.0,Water Park,Group type: Friends
+1626,5,0.6154,Water Park,Group type: Family
+1627,5,0.6148,Water Park,Group type: Other
+1628,5,0.1888,Hardware Store,Trip type: Business
+1629,5,-0.2074,Hardware Store,Trip type: Holiday
+1630,5,1.0,Hardware Store,Trip type: Other
+1631,5,-0.5984,Hardware Store,Trip duration: Night out
+1632,5,-0.203,Hardware Store,Trip duration: Day trip
+1633,5,0.1848,Hardware Store,Trip duration: Weekend trip
+1634,5,0.5874,Hardware Store,Trip duration: Longer
+1635,5,0.615,Hardware Store,Group type: Alone
+1636,5,1.0,Hardware Store,Group type: Friends
+1637,5,0.203,Hardware Store,Group type: Family
+1638,5,1.0,Hardware Store,Group type: Other
+1639,5,0.5958,Paper / Office Supplies Store,Trip type: Business
+1640,5,-0.6168,Paper / Office Supplies Store,Trip type: Holiday
+1641,5,0.5946,Paper / Office Supplies Store,Trip type: Other
+1642,5,-1.0,Paper / Office Supplies Store,Trip duration: Night out
+1643,5,0.5884,Paper / Office Supplies Store,Trip duration: Day trip
+1644,5,0.6292,Paper / Office Supplies Store,Trip duration: Weekend trip
+1645,5,-0.5872,Paper / Office Supplies Store,Trip duration: Longer
+1646,5,1.0,Paper / Office Supplies Store,Group type: Alone
+1647,5,0.1886,Paper / Office Supplies Store,Group type: Friends
+1648,5,-0.2074,Paper / Office Supplies Store,Group type: Family
+1649,5,1.0,Paper / Office Supplies Store,Group type: Other
+1650,5,-1.0,River,Trip type: Business
+1651,5,1.0,River,Trip type: Holiday
+1652,5,1.0,River,Trip type: Other
+1653,5,-0.1864,River,Trip duration: Night out
+1654,5,1.0,River,Trip duration: Day trip
+1655,5,1.0,River,Trip duration: Weekend trip
+1656,5,0.6026,River,Trip duration: Longer
+1657,5,-0.1924,River,Group type: Alone
+1658,5,0.5934,River,Group type: Friends
+1659,5,1.0,River,Group type: Family
+1660,5,0.6306,River,Group type: Other
+1661,5,-0.2014,General College & University,Trip type: Business
+1662,5,0.1886,General College & University,Trip type: Holiday
+1663,5,1.0,General College & University,Trip type: Other
+1664,5,-1.0,General College & University,Trip duration: Night out
+1665,5,-0.2094,General College & University,Trip duration: Day trip
+1666,5,0.2138,General College & University,Trip duration: Weekend trip
+1667,5,0.2048,General College & University,Trip duration: Longer
+1668,5,0.5918,General College & University,Group type: Alone
+1669,5,-0.2064,General College & University,Group type: Friends
+1670,5,-0.182,General College & University,Group type: Family
+1671,5,1.0,General College & University,Group type: Other
+1672,5,0.187,Flea Market,Trip type: Business
+1673,5,1.0,Flea Market,Trip type: Holiday
+1674,5,0.6136,Flea Market,Trip type: Other
+1675,5,-0.2016,Flea Market,Trip duration: Night out
+1676,5,1.0,Flea Market,Trip duration: Day trip
+1677,5,0.619,Flea Market,Trip duration: Weekend trip
+1678,5,1.0,Flea Market,Trip duration: Longer
+1679,5,1.0,Flea Market,Group type: Alone
+1680,5,1.0,Flea Market,Group type: Friends
+1681,5,1.0,Flea Market,Group type: Family
+1682,5,0.615,Flea Market,Group type: Other
+1683,5,-0.6018,Flower Shop,Trip type: Business
+1684,5,0.6302,Flower Shop,Trip type: Holiday
+1685,5,1.0,Flower Shop,Trip type: Other
+1686,5,-0.211,Flower Shop,Trip duration: Night out
+1687,5,0.6042,Flower Shop,Trip duration: Day trip
+1688,5,0.5996,Flower Shop,Trip duration: Weekend trip
+1689,5,0.594,Flower Shop,Trip duration: Longer
+1690,5,1.0,Flower Shop,Group type: Alone
+1691,5,1.0,Flower Shop,Group type: Friends
+1692,5,1.0,Flower Shop,Group type: Family
+1693,5,1.0,Flower Shop,Group type: Other
+1694,5,-0.2118,Field,Trip type: Business
+1695,5,1.0,Field,Trip type: Holiday
+1696,5,0.632,Field,Trip type: Other
+1697,5,-1.0,Field,Trip duration: Night out
+1698,5,1.0,Field,Trip duration: Day trip
+1699,5,0.607,Field,Trip duration: Weekend trip
+1700,5,0.1922,Field,Trip duration: Longer
+1701,5,1.0,Field,Group type: Alone
+1702,5,1.0,Field,Group type: Friends
+1703,5,1.0,Field,Group type: Family
+1704,5,1.0,Field,Group type: Other
+1705,5,-0.2082,Music Store,Trip type: Business
+1706,5,0.6082,Music Store,Trip type: Holiday
+1707,5,1.0,Music Store,Trip type: Other
+1708,5,-1.0,Music Store,Trip duration: Night out
+1709,5,0.603,Music Store,Trip duration: Day trip
+1710,5,1.0,Music Store,Trip duration: Weekend trip
+1711,5,0.2166,Music Store,Trip duration: Longer
+1712,5,1.0,Music Store,Group type: Alone
+1713,5,1.0,Music Store,Group type: Friends
+1714,5,0.6002,Music Store,Group type: Family
+1715,5,1.0,Music Store,Group type: Other
+1716,5,0.5874,Auto Dealership,Trip type: Business
+1717,5,-0.1942,Auto Dealership,Trip type: Holiday
+1718,5,1.0,Auto Dealership,Trip type: Other
+1719,5,-0.1958,Auto Dealership,Trip duration: Night out
+1720,5,1.0,Auto Dealership,Trip duration: Day trip
+1721,5,-0.1888,Auto Dealership,Trip duration: Weekend trip
+1722,5,-0.1972,Auto Dealership,Trip duration: Longer
+1723,5,1.0,Auto Dealership,Group type: Alone
+1724,5,0.5854,Auto Dealership,Group type: Friends
+1725,5,-0.603,Auto Dealership,Group type: Family
+1726,5,0.625,Auto Dealership,Group type: Other
+1727,5,-0.6102,Nature Preserve,Trip type: Business
+1728,5,1.0,Nature Preserve,Trip type: Holiday
+1729,5,1.0,Nature Preserve,Trip type: Other
+1730,5,-0.61,Nature Preserve,Trip duration: Night out
+1731,5,0.6018,Nature Preserve,Trip duration: Day trip
+1732,5,1.0,Nature Preserve,Trip duration: Weekend trip
+1733,5,0.217,Nature Preserve,Trip duration: Longer
+1734,5,1.0,Nature Preserve,Group type: Alone
+1735,5,1.0,Nature Preserve,Group type: Friends
+1736,5,1.0,Nature Preserve,Group type: Family
+1737,5,1.0,Nature Preserve,Group type: Other
+1738,5,-0.597,Library,Trip type: Business
+1739,5,-1.0,Library,Trip type: Holiday
+1740,5,0.6134,Library,Trip type: Other
+1741,5,-0.6094,Library,Trip duration: Night out
+1742,5,0.1954,Library,Trip duration: Day trip
+1743,5,-0.5972,Library,Trip duration: Weekend trip
+1744,5,-0.5936,Library,Trip duration: Longer
+1745,5,1.0,Library,Group type: Alone
+1746,5,1.0,Library,Group type: Friends
+1747,5,0.6288,Library,Group type: Family
+1748,5,1.0,Library,Group type: Other
+1749,5,-0.623,Antique Shop,Trip type: Business
+1750,5,0.2126,Antique Shop,Trip type: Holiday
+1751,5,1.0,Antique Shop,Trip type: Other
+1752,5,-0.5914,Antique Shop,Trip duration: Night out
+1753,5,1.0,Antique Shop,Trip duration: Day trip
+1754,5,0.6206,Antique Shop,Trip duration: Weekend trip
+1755,5,0.2376,Antique Shop,Trip duration: Longer
+1756,5,1.0,Antique Shop,Group type: Alone
+1757,5,1.0,Antique Shop,Group type: Friends
+1758,5,1.0,Antique Shop,Group type: Family
+1759,5,0.615,Antique Shop,Group type: Other
+1760,5,-0.6046,Travel Agency,Trip type: Business
+1761,5,1.0,Travel Agency,Trip type: Holiday
+1762,5,0.6258,Travel Agency,Trip type: Other
+1763,5,-0.6178,Travel Agency,Trip duration: Night out
+1764,5,1.0,Travel Agency,Trip duration: Day trip
+1765,5,0.5988,Travel Agency,Trip duration: Weekend trip
+1766,5,0.5914,Travel Agency,Trip duration: Longer
+1767,5,1.0,Travel Agency,Group type: Alone
+1768,5,1.0,Travel Agency,Group type: Friends
+1769,5,1.0,Travel Agency,Group type: Family
+1770,5,1.0,Travel Agency,Group type: Other
+1771,5,0.2024,Bistro,Trip type: Business
+1772,5,1.0,Bistro,Trip type: Holiday
+1773,5,1.0,Bistro,Trip type: Other
+1774,5,0.6148,Bistro,Trip duration: Night out
+1775,5,1.0,Bistro,Trip duration: Day trip
+1776,5,1.0,Bistro,Trip duration: Weekend trip
+1777,5,0.197,Bistro,Trip duration: Longer
+1778,5,0.6178,Bistro,Group type: Alone
+1779,5,1.0,Bistro,Group type: Friends
+1780,5,0.6162,Bistro,Group type: Family
+1781,5,0.615,Bistro,Group type: Other
+1782,5,-0.602,Boat or Ferry,Trip type: Business
+1783,5,1.0,Boat or Ferry,Trip type: Holiday
+1784,5,1.0,Boat or Ferry,Trip type: Other
+1785,5,0.5954,Boat or Ferry,Trip duration: Night out
+1786,5,1.0,Boat or Ferry,Trip duration: Day trip
+1787,5,1.0,Boat or Ferry,Trip duration: Weekend trip
+1788,5,1.0,Boat or Ferry,Trip duration: Longer
+1789,5,1.0,Boat or Ferry,Group type: Alone
+1790,5,1.0,Boat or Ferry,Group type: Friends
+1791,5,1.0,Boat or Ferry,Group type: Family
+1792,5,1.0,Boat or Ferry,Group type: Other
+1793,5,0.6018,Soup Place,Trip type: Business
+1794,5,1.0,Soup Place,Trip type: Holiday
+1795,5,1.0,Soup Place,Trip type: Other
+1796,5,-0.2034,Soup Place,Trip duration: Night out
+1797,5,0.603,Soup Place,Trip duration: Day trip
+1798,5,1.0,Soup Place,Trip duration: Weekend trip
+1799,5,0.5946,Soup Place,Trip duration: Longer
+1800,5,1.0,Soup Place,Group type: Alone
+1801,5,1.0,Soup Place,Group type: Friends
+1802,5,1.0,Soup Place,Group type: Family
+1803,5,1.0,Soup Place,Group type: Other
+1804,5,0.5892,Theme Restaurant,Trip type: Business
+1805,5,1.0,Theme Restaurant,Trip type: Holiday
+1806,5,0.6146,Theme Restaurant,Trip type: Other
+1807,5,1.0,Theme Restaurant,Trip duration: Night out
+1808,5,1.0,Theme Restaurant,Trip duration: Day trip
+1809,5,1.0,Theme Restaurant,Trip duration: Weekend trip
+1810,5,1.0,Theme Restaurant,Trip duration: Longer
+1811,5,-0.1966,Theme Restaurant,Group type: Alone
+1812,5,1.0,Theme Restaurant,Group type: Friends
+1813,5,1.0,Theme Restaurant,Group type: Family
+1814,5,1.0,Theme Restaurant,Group type: Other
+1815,5,-1.0,Student Center,Trip type: Business
+1816,5,-0.2138,Student Center,Trip type: Holiday
+1817,5,-0.1742,Student Center,Trip type: Other
+1818,5,-1.0,Student Center,Trip duration: Night out
+1819,5,0.1918,Student Center,Trip duration: Day trip
+1820,5,-1.0,Student Center,Trip duration: Weekend trip
+1821,5,0.1926,Student Center,Trip duration: Longer
+1822,5,0.5934,Student Center,Group type: Alone
+1823,5,0.1914,Student Center,Group type: Friends
+1824,5,-0.1984,Student Center,Group type: Family
+1825,5,1.0,Student Center,Group type: Other
+1826,5,-0.5982,Farm,Trip type: Business
+1827,5,1.0,Farm,Trip type: Holiday
+1828,5,1.0,Farm,Trip type: Other
+1829,5,-1.0,Farm,Trip duration: Night out
+1830,5,1.0,Farm,Trip duration: Day trip
+1831,5,1.0,Farm,Trip duration: Weekend trip
+1832,5,0.5958,Farm,Trip duration: Longer
+1833,5,1.0,Farm,Group type: Alone
+1834,5,0.6112,Farm,Group type: Friends
+1835,5,1.0,Farm,Group type: Family
+1836,5,0.6318,Farm,Group type: Other
+1837,5,0.2238,Thrift / Vintage Store,Trip type: Business
+1838,5,1.0,Thrift / Vintage Store,Trip type: Holiday
+1839,5,1.0,Thrift / Vintage Store,Trip type: Other
+1840,5,-1.0,Thrift / Vintage Store,Trip duration: Night out
+1841,5,1.0,Thrift / Vintage Store,Trip duration: Day trip
+1842,5,1.0,Thrift / Vintage Store,Trip duration: Weekend trip
+1843,5,0.1952,Thrift / Vintage Store,Trip duration: Longer
+1844,5,1.0,Thrift / Vintage Store,Group type: Alone
+1845,5,1.0,Thrift / Vintage Store,Group type: Friends
+1846,5,1.0,Thrift / Vintage Store,Group type: Family
+1847,5,0.6138,Thrift / Vintage Store,Group type: Other
+1848,5,-0.1968,College Theater,Trip type: Business
+1849,5,0.2298,College Theater,Trip type: Holiday
+1850,5,1.0,College Theater,Trip type: Other
+1851,5,-0.5954,College Theater,Trip duration: Night out
+1852,5,0.5924,College Theater,Trip duration: Day trip
+1853,5,1.0,College Theater,Trip duration: Weekend trip
+1854,5,-0.1996,College Theater,Trip duration: Longer
+1855,5,1.0,College Theater,Group type: Alone
+1856,5,1.0,College Theater,Group type: Friends
+1857,5,0.5972,College Theater,Group type: Family
+1858,5,1.0,College Theater,Group type: Other
+1859,5,0.1742,Tourist Information Center,Trip type: Business
+1860,5,1.0,Tourist Information Center,Trip type: Holiday
+1861,5,1.0,Tourist Information Center,Trip type: Other
+1862,5,-1.0,Tourist Information Center,Trip duration: Night out
+1863,5,1.0,Tourist Information Center,Trip duration: Day trip
+1864,5,0.1968,Tourist Information Center,Trip duration: Weekend trip
+1865,5,0.2026,Tourist Information Center,Trip duration: Longer
+1866,5,0.612,Tourist Information Center,Group type: Alone
+1867,5,0.595,Tourist Information Center,Group type: Friends
+1868,5,1.0,Tourist Information Center,Group type: Family
+1869,5,0.615,Tourist Information Center,Group type: Other
+1870,5,0.1966,College Quad,Trip type: Business
+1871,5,-0.6134,College Quad,Trip type: Holiday
+1872,5,1.0,College Quad,Trip type: Other
+1873,5,-0.6114,College Quad,Trip duration: Night out
+1874,5,0.1924,College Quad,Trip duration: Day trip
+1875,5,-0.5834,College Quad,Trip duration: Weekend trip
+1876,5,-0.2062,College Quad,Trip duration: Longer
+1877,5,0.6044,College Quad,Group type: Alone
+1878,5,0.1854,College Quad,Group type: Friends
+1879,5,-0.5884,College Quad,Group type: Family
+1880,5,0.6162,College Quad,Group type: Other
+1881,5,-1.0,College Cafeteria,Trip type: Business
+1882,5,-1.0,College Cafeteria,Trip type: Holiday
+1883,5,0.615,College Cafeteria,Trip type: Other
+1884,5,-0.614,College Cafeteria,Trip duration: Night out
+1885,5,0.1968,College Cafeteria,Trip duration: Day trip
+1886,5,-0.5972,College Cafeteria,Trip duration: Weekend trip
+1887,5,-0.1816,College Cafeteria,Trip duration: Longer
+1888,5,1.0,College Cafeteria,Group type: Alone
+1889,5,1.0,College Cafeteria,Group type: Friends
+1890,5,-0.192,College Cafeteria,Group type: Family
+1891,5,1.0,College Cafeteria,Group type: Other
+1892,5,-0.1828,Fish & Chips Shop,Trip type: Business
+1893,5,0.6136,Fish & Chips Shop,Trip type: Holiday
+1894,5,0.6136,Fish & Chips Shop,Trip type: Other
+1895,5,1.0,Fish & Chips Shop,Trip duration: Night out
+1896,5,0.6012,Fish & Chips Shop,Trip duration: Day trip
+1897,5,1.0,Fish & Chips Shop,Trip duration: Weekend trip
+1898,5,0.212,Fish & Chips Shop,Trip duration: Longer
+1899,5,1.0,Fish & Chips Shop,Group type: Alone
+1900,5,1.0,Fish & Chips Shop,Group type: Friends
+1901,5,1.0,Fish & Chips Shop,Group type: Family
+1902,5,1.0,Fish & Chips Shop,Group type: Other
+1903,5,-1.0,Pet Service,Trip type: Business
+1904,5,0.2248,Pet Service,Trip type: Holiday
+1905,5,0.6164,Pet Service,Trip type: Other
+1906,5,-1.0,Pet Service,Trip duration: Night out
+1907,5,1.0,Pet Service,Trip duration: Day trip
+1908,5,-0.2006,Pet Service,Trip duration: Weekend trip
+1909,5,0.5934,Pet Service,Trip duration: Longer
+1910,5,1.0,Pet Service,Group type: Alone
+1911,5,0.2182,Pet Service,Group type: Friends
+1912,5,0.1948,Pet Service,Group type: Family
+1913,5,0.6056,Pet Service,Group type: Other
+1914,5,-0.1976,Train Station,Trip type: Business
+1915,5,0.5966,Train Station,Trip type: Holiday
+1916,5,0.628,Train Station,Trip type: Other
+1917,5,-0.5908,Train Station,Trip duration: Night out
+1918,5,1.0,Train Station,Trip duration: Day trip
+1919,5,1.0,Train Station,Trip duration: Weekend trip
+1920,5,1.0,Train Station,Trip duration: Longer
+1921,5,0.6062,Train Station,Group type: Alone
+1922,5,1.0,Train Station,Group type: Friends
+1923,5,1.0,Train Station,Group type: Family
+1924,5,0.6292,Train Station,Group type: Other
+1925,5,0.583,Road,Trip type: Business
+1926,5,0.203,Road,Trip type: Holiday
+1927,5,0.2254,Road,Trip type: Other
+1928,5,1.0,Road,Trip duration: Night out
+1929,5,1.0,Road,Trip duration: Day trip
+1930,5,1.0,Road,Trip duration: Weekend trip
+1931,5,0.5996,Road,Trip duration: Longer
+1932,5,1.0,Road,Group type: Alone
+1933,5,1.0,Road,Group type: Friends
+1934,5,0.5952,Road,Group type: Family
+1935,5,1.0,Road,Group type: Other
+1936,5,1.0,Business Service,Trip type: Business
+1937,5,-0.613,Business Service,Trip type: Holiday
+1938,5,0.5972,Business Service,Trip type: Other
+1939,5,-0.5956,Business Service,Trip duration: Night out
+1940,5,0.194,Business Service,Trip duration: Day trip
+1941,5,-0.221,Business Service,Trip duration: Weekend trip
+1942,5,0.6016,Business Service,Trip duration: Longer
+1943,5,1.0,Business Service,Group type: Alone
+1944,5,-0.1896,Business Service,Group type: Friends
+1945,5,-0.6128,Business Service,Group type: Family
+1946,5,0.2202,Business Service,Group type: Other
+1947,108,1.0,American Restaurant,Group type: Friends
+1948,84,0.7578,Scenic Lookout,Trip type: Holiday
+1949,82,-0.1196,Dog Run,Group type: Other
+1950,88,-0.6776,Pharmacy,Trip duration: Weekend trip
+1951,102,0.041,Flower Shop,Group type: Family
+1952,108,1.0,Nightlife Spot,Group type: Friends
+1953,105,-0.436,Pharmacy,Trip type: Business
+1954,99,1.0,Mediterranean Restaurant,Group type: Friends
+1955,77,-0.2134,Other Nightlife,Group type: Family
+1956,97,-0.6776,Warehouse Store,Trip duration: Night out
+1957,100,1.0,Snack Place,Group type: Friends
+1958,90,0.7572,Italian Restaurant,Trip type: Holiday
+1959,58,-0.2768,Fast Food Restaurant,Trip type: Business
+1960,27,-0.3614,Garden,Trip duration: Night out
+1961,52,1.0,Boat or Ferry,Trip duration: Weekend trip
+1962,50,1.0,Clothing Store,Group type: Alone
+1963,33,-0.6018,College Classroom,Trip duration: Day trip
+1964,50,0.924,Movie Theater,Group type: Friends
+1965,34,-0.7598,Athletics & Sports,Trip type: Business
+1966,25,0.121,Cosmetics Shop,Group type: Family
+1967,29,0.4488,Pet Store,Trip type: Other
+1968,50,-0.8436,Pet Store,Trip duration: Night out
+1969,36,0.843,Other Great Outdoors,Trip type: Holiday
+1970,27,0.7638,Middle Eastern Restaurant,Trip duration: Weekend trip
+1971,28,0.8428,Vegetarian / Vegan Restaurant,Group type: Alone
+1972,12,0.3238,Print Shop,Trip type: Business
+1973,31,-0.6028,Comedy Club,Trip type: Business
+1974,30,0.6056,Deli / Bodega,Trip type: Other
+1975,30,0.6794,Mexican Restaurant,Trip type: Other
+1976,50,0.5956,Coffee Shop,Trip duration: Day trip
+1977,28,0.5218,Lounge,Trip type: Business
+1978,53,1.0,Travel & Transport,Group type: Alone
+1979,54,0.9216,French Restaurant,Trip type: Holiday
+1980,37,0.6074,Fried Chicken Joint,Trip duration: Day trip
+1981,26,0.6746,Italian Restaurant,Trip duration: Longer
+1982,53,0.9292,Southern / Soul Food Restaurant,Trip type: Holiday
+1983,50,0.5216,Travel Agency,Group type: Family
+1984,10,-0.1974,Casino,Trip type: Business
+1985,47,1.0,Greek Restaurant,Trip type: Holiday
+1986,50,0.5328,Italian Restaurant,Trip type: Other
+1987,55,0.1144,Sporting Goods Shop,Trip duration: Weekend trip
+1988,27,-0.6792,College & University,Trip type: Holiday
+1989,49,0.3598,Paper / Office Supplies Store,Trip type: Business
+1990,54,0.8378,Greek Restaurant,Trip duration: Day trip
+1991,47,0.7604,Aquarium,Trip type: Holiday
+1992,48,0.9286,Gastropub,Trip type: Holiday
+1993,53,0.04,Burger Joint,Trip duration: Longer
+1994,48,-0.6806,Airport,Trip duration: Night out
+1995,46,1.0,Hotel,Trip duration: Weekend trip
+1996,53,0.4426,Business Service,Trip duration: Longer
+1997,57,0.9292,Donut Shop,Group type: Alone
+1998,29,0.4366,Restaurant,Trip duration: Longer
+1999,54,1.0,Museum,Group type: Friends
+2000,50,1.0,Museum,Group type: Friends
+2001,57,0.7568,Tourist Information Center,Group type: Friends
+2002,55,0.9198,Spa,Trip duration: Longer
+2003,50,0.7602,American Restaurant,Trip type: Other
+2004,28,1.0,Playground,Group type: Family
+2005,28,0.7746,Electronics Store,Trip type: Other
+2006,29,0.9204,Asian Restaurant,Trip duration: Day trip
+2007,27,-0.7666,Electronics Store,Trip duration: Night out
+2008,2,0.017,Deli / Bodega,Group type: Alone
+2009,4,-0.5126,Food Truck,Trip type: Business
+2010,31,1.0,General Travel,Group type: Family
+2011,29,0.8458,Seafood Restaurant,Group type: Alone
+2012,25,0.9264,Southern / Soul Food Restaurant,Group type: Other
+2013,29,0.6128,College Classroom,Group type: Other
+2014,30,1.0,Sandwich Place,Group type: Family
+2015,28,1.0,Other Great Outdoors,Trip duration: Day trip
+2016,28,0.9264,Sandwich Place,Trip type: Other
+2017,30,1.0,Playground,Trip duration: Day trip
+2018,28,1.0,Gift Shop,Group type: Family
+2019,28,1.0,Zoo,Trip duration: Day trip
+2020,28,0.9206,Other Great Outdoors,Group type: Alone
+2021,27,1.0,Furniture / Home Store,Group type: Alone
+2022,31,1.0,Performing Arts Venue,Group type: Friends
+2023,24,0.9198,Food,Group type: Friends
